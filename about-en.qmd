@@ -1,0 +1,24 @@
+---
+title: "Gabonese Wrist"
+comments: false
+image: moi.jpg
+about:
+  template: trestles
+  links: 
+     - icon: github
+       href: https://github.com/
+     - icon: instagram
+       href: https://www.instagram.com/
+     - icon: envelope
+       href: mailto:f.boussengui@gmail.com
+---
+
+Welcome to my blog dedicated to the world of watchmaking !
+
+As an enthusiast of the history of watchmaking and fine timepieces, I would like to share my vision and knowledge in this field with you. We will address the topic as follows :
+
+-   We will talk about the main watch manufacturers such as Rolex, Omega, Cartier, Tudor, etc. We will retrace the evolution of practices, know-how and technological innovations in the field of watchmaking.
+
+-   We will also address the subject from a quantitative point of view. Through data analysis, we will examine the characteristics of luxury watches in the second-hand market. We will also explain how the specificities of each watch can influence their value.
+
+-   I will share and propose sheets on the models I will try.

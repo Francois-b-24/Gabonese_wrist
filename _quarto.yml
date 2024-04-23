@@ -1,0 +1,63 @@
+project:
+  type: website
+  preview:
+    port: 4200
+
+website:
+  title: "Gabonese Wrist"
+  site-url: 'http://gabonesewrist.com/'
+  #google-analytics: 'G-WE15K3S8JT'
+  page-footer:
+    left: "Website made with [Quarto](https://quarto.org/), by BOUSSENGUI François. License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)."
+    right: 
+    - icon: github
+      href: https://github.com/
+    - icon: instagram
+      href: https://www.instagram.com/
+    - icon: envelope
+      href: mailto:f.boussengui@gmail.com 
+     
+  navbar:
+    right:
+      - text: A propos
+        menu:      
+          - text: Anglais
+            href: about-en.qmd
+          - text: Français 
+            href: about.qmd
+      - text: Montres 
+        menu:
+          - text: Rolex
+            href: posts_montres/rolex.qmd
+          - text: Cartier
+            href: posts_montres/cartier.qmd
+
+      # Add RSS feed to navbar
+      # Link is given by {name}.xml where
+      # {name} is name of qmd-file generating the feed
+      #- icon: rss
+      #  href: about.xml
+      - icon: github
+        href: https://github.com/
+      - icon: instagram
+        href: https://www.instagram.com/
+      - icon: envelope
+        href: mailto:f.boussengui@gmail.com
+   
+  
+format:
+  html:
+    smooth-scroll: true
+    theme: 
+      - pulse
+      - theme.scss
+
+
+editor: visual
+
+comments:
+  utterances:
+    repo: francois-b-24/utterance
+
+execute:
+  freeze: true
