@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 5dcb8634-9c25-48ac-9d79-19cd006e31b0
+      url: 'https://startling-buttercream-06628e.netlify.app'
