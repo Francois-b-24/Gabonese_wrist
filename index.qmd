@@ -1,5 +1,5 @@
 ---
-title: "L'Horlogerie ⚜️⌚"
+title: "L'Horlogerie, un savoir être ⚜️⌚"
 subtitle: "*Parce-que sans Garde-Temps, la notion de Temps n'existe pas.*"
 comments: false
 listing:
