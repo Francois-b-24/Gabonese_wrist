@@ -1,3 +1,3 @@
 [building]
-command = "/usr/local/bin/quarto render"
+command = "/Users/f.b/Desktop/Data_Science/Data_Science/Gabones_wrist/Gabonese_wrist/quarto render"
 publish = "_site"
