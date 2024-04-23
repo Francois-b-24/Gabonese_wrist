@@ -6,10 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="G.B">
-<meta name="dcterms.date" content="2024-04-10">
+<meta name="author" content="Gabonese Wrist">
 
-<title>Gabonese Wrist - L’Horlogerie, croisade entre art &amp; science</title>
+<title>Gabonese Wrist - Tout</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -25,22 +24,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../../">
-<script src="../../../site_libs/quarto-html/quarto.js"></script>
-<script src="../../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,19 +69,77 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-posts .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-date','listing-title','listing-categories','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-posts'] = new List('listing-posts', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <style>html{ scroll-behavior: smooth; }</style>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../../../index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Gabonese Wrist</span>
     </a>
   </div>
@@ -96,11 +155,11 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-a-propos">    
         <li>
-    <a class="dropdown-item" href="../../../about-en.html">
+    <a class="dropdown-item" href="../about-en.html">
  <span class="dropdown-text">Anglais</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../../about.html">
+    <a class="dropdown-item" href="../about.html">
  <span class="dropdown-text">Français</span></a>
   </li>  
     </ul>
@@ -111,11 +170,11 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-montres">    
         <li>
-    <a class="dropdown-item" href="../../../posts_montres/rolex.html">
+    <a class="dropdown-item" href="../posts_montres/rolex.html">
  <span class="dropdown-text">Rolex</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../../posts_montres/cartier.html">
+    <a class="dropdown-item" href="../posts_montres/cartier.html">
  <span class="dropdown-text">Cartier</span></a>
   </li>  
     </ul>
@@ -143,38 +202,31 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
+    </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">L’Horlogerie, croisade entre art &amp; science</h1>
-  <div class="quarto-categories">
-    <div class="quarto-category">histoire &amp; savoir-faire</div>
-  </div>
-  </div>
+<h1 class="title">Tout</h1>
+</div>
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page">
 
     <div>
     <div class="quarto-title-meta-heading">Author</div>
     <div class="quarto-title-meta-contents">
-             <p>G.B </p>
+             <p>Gabonese Wrist </p>
           </div>
   </div>
     
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">April 10, 2024</p>
-    </div>
-  </div>
   
     
   </div>
@@ -184,22 +236,135 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Aux 2 «F»,</p>
-<p><img src="patekphilippe_7150_250R_001.jpg" class="img-fluid"></p>
-<p>Chers,</p>
-<p>Le temps est un grand mystère, principe variable. Il appartient à une dimension incertaine, qui, plus que tout autre, dépend de la perception qu’on en a. Il possède également un aspect concret marqué&nbsp;par le passage des heures, des jours et des années. L’étude de ce mystère a été un vrai défi pour l’humanité qui, au fil des siècles, s’est toujours efforcée de trouver des limites à tout ce qui fluctuait.</p>
-<p>Une montre demande une certaine maîtrise technique. C’est un objet qui a réussi a allié l’art et la science pour créer ce qui aujourd’hui est devenu un objet tant désiré et indispensable.</p>
-<p>Par conséquent, une montre revêt non seulement un aspect esthétique mais aussi technique.</p>
-<p>D’un côté, les codes stylistiques d’une montre peuvent tout simplement être le reflet d’une époque. Tel est le cas, si on prend l’exemple des pièces d’horlogerie créées durant les années 1920, qui évoquent le style Arts déco. On a vu apparaître des montres aux boîtiers rectangulaires qui ont remis en cause la structure circulaire traditionnelle des montres connues jusqu’à lors. Dans les années 1930 et 1940, la sobriété du style Bahaus a influencé le modèle esthétique des montres. Ce n’est qu’à partir des années 1980, quand à émergé le style Memphis, ludique et coloré, que les Swtach, montres à quartz sont nées.</p>
-<p>D’un autre côté, parfois c’est l’histoire qui se cache derrière un modèle en particulier qui influence la forme et le style des montres. Prenons l’exemple de la Tank conçue par Louis Cartier en 1917, qui avait effectivement la forme d’un tank : le Renault FT-17 utilisé durant la Première Guerre mondiale. L’usage de la montre également peut primer dans l’esprit qui guidera la création du garde-temps. Cela peut être illustré par la Reverso dessinée par Jaeger-LeCoultre en 1931. La solution technique du boîtier rabattable, qui répondait à la demande des joueurs de polo, est devenue un modèle esthétique historique.</p>
-<p>Par conséquent, pour bien appréhender le concept de l’horlogerie, il faut tenir compte du contexte ou encore de l’époque dans lequel le modèle à été crée - C’est-à-dire l’essence de sa présence dans la société et de son interaction avec la dynamique sociale.</p>
-<p>Les Première et Seconde Guerres mondiales ont stimulé la production de montres robustes et fiables. On a vu l’arrivée en masse de chronomètres et de chronographes dans les années 1930 qui répondaient à des besoins mesures précises pour des activités professionnelles telles que les courses automobiles, les vols transatlantiques et les Jeux Olympiques</p>
-<p>Ainsi, l’horlogerie a toujours été un mélange d’Art, pour la forme et l’esthétique mais aussi de technique et de science. Le pouvoir de compter le temps est étroitement lié à une évolution technique qui est un art en soi, et qui a évolué au fil des siècles pour atteindre les degrés raffinés de la perfection.</p>
-<p>Les montres ne sot pas seulement symbole de richesse et de goût, mais aussi des outils capables d’afficher et de communiquer le caractère et le tempérament personnels de ceux qui les portent.</p>
 
 
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-posts">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="Histoire &amp; savoir-faire" data-listing-date-sort="1713650400000" data-listing-file-modified-sort="1713875347764" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="../posts/histoire/Cartier.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="../posts/histoire/IMG_2267.PNG" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Cartier
+</h5>
+<div class="listing-reading-time card-text text-muted">
+1 min
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Histoire &amp; savoir-faire'); return false;">
+Histoire &amp; savoir-faire
+</div>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Apr 21, 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="Essai" data-listing-date-sort="1713650400000" data-listing-file-modified-sort="1713875347769" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="363">
+<a href="../posts/introduction/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="../posts/introduction/IMG_0900.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Pourquoi l’horlogerie ?
+</h5>
+<div class="listing-reading-time card-text text-muted">
+2 min
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Essai'); return false;">
+Essai
+</div>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Apr 21, 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="Histoire &amp; savoir-faire" data-listing-date-sort="1713650400000" data-listing-file-modified-sort="1713875347771" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="18" data-listing-word-count-sort="3509">
+<a href="../posts/lexique/lexique.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="../posts/lexique/IMG_2264.JPG" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Lexique horloger
+</h5>
+<div class="listing-reading-time card-text text-muted">
+18 min
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Histoire &amp; savoir-faire'); return false;">
+Histoire &amp; savoir-faire
+</div>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Apr 21, 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="Essai" data-listing-date-sort="1712700000000" data-listing-file-modified-sort="1713875347764" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1115">
+<a href="../posts/histoire/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="histoire/patekphilippe_7150_250R_001.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+L’Horlogerie, croisade entre art &amp; science
+</h5>
+<div class="listing-reading-time card-text text-muted">
+6 min
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Essai'); return false;">
+Essai
+</div>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Apr 10, 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
+<div>
+    <hr>
+    
+    <h3> Sois à l'heure ! </h3>
+    
+    <p> Si l'article t'a plu, n'hesite pas à t'abonner en souscrivant à ma newsletter </p>
+    
+    <iframe src="https://embeds.beehiiv.com/87cd0360-ecb3-4fbb-a2dd-2bce70a6ad7e" data-test-id="beehiiv-embed" width="100%" height="175" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
+    
+    
+    <hr>
+    </div>
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -281,7 +446,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/cheery-bonbon-99e1f0\.netlify\.app");
+      var filterRegex = new RegExp("http:\/\/gabonesewrist\.com\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
@@ -609,8 +774,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
-<script src="https://utteranc.es/client.js" repo="francois-b-24/utterance" issue-term="pathname" theme="github-light" crossorigin="anonymous" async="">
-</script>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
@@ -648,5 +811,5 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-<script src="../../../site_libs/quarto-html/zenscroll-min.js"></script>
+<script src="../site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

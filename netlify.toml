@@ -1,3 +1,20 @@
-[building]
-command = "/Users/f.b/Desktop/Data_Science/Data_Science/Gabones_wrist/Gabonese_wrist/quarto render"
-publish = "_site"
+[build]
+  command = "quarto render"
+  publish = "_site"
+
+[context.production.environment]
+  QUARTO_VERSION = "latest"
+  # Ajoutez d'autres variables d'environnement si nécessaire
+
+[context.deploy-preview.environment]
+  QUARTO_VERSION = "latest"
+  # Ajoutez d'autres variables d'environnement si nécessaire
+
+[build.environment]
+  QUARTO_VERSION = "latest"
+  # Ajoutez d'autres variables d'environnement si nécessaire
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
