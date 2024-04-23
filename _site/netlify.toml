@@ -1,0 +1,3 @@
+[building]
+command = "quarto render"
+publish = "_site"
