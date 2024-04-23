@@ -18,4 +18,4 @@ page-layout: article
 
 format:
   html:
-    include-after-body: ../footer_bis.html
+    include-after-body: ../footer.html

@@ -58,3 +58,7 @@ Patek Philippe lança une publicité qui annonçait : " Une Patek Philippe ne se
 Les années 1970 ont été la décennie ou les maisons d'horlogerie ont misé sur le design. C'est l'horloger Gerald Genta qui a créé certains des modèles de montres les plus célèbres telles que la Nautilus de Patek Phillipe, la Royal Oak de chez Audemars Piguet.
 
 Au fil des années, la fabrication des montres a vécu un nouvel élan technique et créatif. Une montre mécanique incarne la magie d'une connaissance technique qui fascine toujours ; elle représente les valeurs intrinsèques et intangibles liés au prestige de posséder un objet convoité pour son design et son mécanisme. Ce n'est pas une question de luxe ou de statut social mais plutôt la recherche de l'excellence créative et culturel.
+
+```{=html}
+<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/22e153f659d838a1653d7dfa3/1ef6f48a3f5624ca75734a517.js");</script>
+```
