@@ -36,11 +36,6 @@ $font-family-base:  'Serif' !default;
     background: $bs-blue;
 }
 
-.dropdown-item {
-  color: $bs-blue;
-}
-
-
 .page-link {
       color: $bs-blue;
 }
@@ -67,3 +62,8 @@ div.quarto-post .listing-categories .listing-category {
     border: solid 1px var(--bs-gray-400);
     font-size: .8em;
 }
+
+.dropdown-item:hover {
+  background-color: $bs-blue;
+}
+
