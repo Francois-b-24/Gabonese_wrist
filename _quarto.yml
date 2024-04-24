@@ -6,7 +6,7 @@ project:
 website:
   title: "Gabonese Wrist"
   site-url: 'http://gabonesewrist.com/'
-  #google-analytics: 'G-WE15K3S8JT'
+  google-analytics: 'G-WE15K3S8JT'
   page-footer:
     left: "Website made with [Quarto](https://quarto.org/), by BOUSSENGUI François. License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)."
     right: 

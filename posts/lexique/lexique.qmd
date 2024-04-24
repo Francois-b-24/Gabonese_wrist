@@ -14,7 +14,7 @@ Chers lecteurs,
 
 J'ose imaginer que vous savez tous ce qu'est un bracelet, des aiguilles, etc. Mais je me doute que vous avez également entendu des termes plus farfelus les uns-que les autres concernant les montres. 😄
 
-Comme une multitude de domaines, l'horlogie dispose d'un vocabulaire technique qui lui est propre. C'est pourquoi, il sera question ici de proposer une liste le plus exhaustive soit-elle, du vocabulaire holorger.
+Comme une multitude de domaines, l'horlogie dispose d'un vocabulaire technique qui lui est propre. C'est pourquoi, il sera question ici de proposer une liste la plus exhaustive soit-elle, du vocabulaire holorger.
 
 # **Lexique :**
 
@@ -24,13 +24,15 @@ Comme une multitude de domaines, l'horlogie dispose d'un vocabulaire technique q
 
 <br> Abbréviation d' « atmosphère normale », ATM est une unité de pression indiquant l'étanchéité d'une montre. Par exemple, une montre offrant une étanchéité de 10ATM résiste à une pression de 10 bars, soit 100 mètres de profondeur. Cependant, c'est une indication à ne pas prendre au premier degré. Par exemple, la plongée requiert une capacité de 20ATM minimum.
 
+![Tudor Pelagos, étenchéité de 50 ATM](atm.jpeg){fig-align="center" width="10cm"}
+
 </details>
 
 <details>
 
 <summary>Alternance</summary>
 
-<br> Déplacement d'un pendule ou d'un balancier entre deux positions extrêmes (A' \> A »). Deux alternances, soit un aller-retour, constituent une oscillation, soit le fameux « tic-tac » d'une montre.En règle générale, un balancier compte 5 oscillations par seconde (fréquence de marche de 18,000 alternances à l'heure -- 2,5Hz), 8 oscillations par seconde (fréquence de marche de 28,800 alternances à l'heure -- 4Hz) ou 10 oscillations par seconde (fréquence de marche de 36,000 alternances à l'heure -- 5Hz).
+<br> Déplacement d'un pendule ou d'un balancier entre deux positions extrêmes (A' \> A »). Deux alternances, soit un aller-retour, constituent une oscillation, soit le fameux « tic-tac » d'une montre. En règle générale, un balancier compte 5 oscillations par seconde (fréquence de marche de 18,000 alternances à l'heure -- 2,5Hz), 8 oscillations par seconde (fréquence de marche de 28,800 alternances à l'heure -- 4Hz) ou 10 oscillations par seconde (fréquence de marche de 36,000 alternances à l'heure -- 5Hz).
 
 </details>
 
@@ -40,6 +42,8 @@ Comme une multitude de domaines, l'horlogie dispose d'un vocabulaire technique q
 
 <br> Se dit d'une montre dont le fonctionnement des organes réglants ne sont pas affectés par le magnétisme. La majorité des pièces d'horlogerie étant fabriquées à partir de métaux et d'alliages ferreux, celles-ci sont habituellement déréglées par les champs magnétiques. La définition d'une montre antimagnétique est régie par la norme ISO 764, celle-ci devant être apte à fonctionner après une exposition accidentelle à un champ de 4800 A/m (soit 60 gauss).
 
+![](amagnétisme.webp){fig-align="center" width="10cm"}
+
 </details>
 
 <details>
@@ -47,6 +51,8 @@ Comme une multitude de domaines, l'horlogie dispose d'un vocabulaire technique q
 <summary>Amplitude</summary>
 
 <br> Angle maximum entre les deux positions extrêmes d'une pendule ou d'un balancier (A\>A »). Cela équivaut au trajet complet effectué par le balancier lors d'une alternance. En règle générale, l'amplitude d'un balancier se situe entre 180° et 315°. Si l'amplitude dépasse cette valeur, le balancier peut buter contre la fourchette, ce que les horlogers appellent le rabattement.
+
+![](amplitude.jpeg){fig-align="center" width="10cm"}
 
 </details>
 
