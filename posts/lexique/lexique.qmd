@@ -22,6 +22,7 @@ Comme une multitude de domaines, l'horlogie dispose d'un vocabulaire technique q
 
 <summary>ATM</summary>
 
+
 <br> Abbréviation d' « atmosphère normale », ATM est une unité de pression indiquant l'étanchéité d'une montre. Par exemple, une montre offrant une étanchéité de 10ATM résiste à une pression de 10 bars, soit 100 mètres de profondeur. Cependant, c'est une indication à ne pas prendre au premier degré. Par exemple, la plongée requiert une capacité de 20ATM minimum.
 
 ![Tudor Pelagos, étenchéité de 50 ATM](atm.jpeg){fig-align="center" width="10cm"}
