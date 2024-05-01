@@ -1,5 +1,5 @@
 ---
-title: "L'Horloge rit sans l'Horlogie ⌛ "
+title: "L'Horloge rit sans l'Horlogerie ⌛ "
 subtitle: "*Un savoir-être indispensable - Parce-que sans Garde-Temps, la notion de Temps n'existe pas.*"
 comments: false
 listing:

@@ -17,41 +17,41 @@ Avant de parler d'horlogerie, nous allons cadrer notre discussion en proposant t
 
 # Le Temps
 
-Le Temps est un élément intangible avec lequel nous vivons tous.
+Le Temps est un élément intelligible, omniprésent.
 
-Une définition communément acceptée de tous est que le Temps rend compte des changements dans le monde. Ce que nous appelons communément le Temps, n'est autre que la mesure de la durée. C'est-à-dire le temps qui s'est écoulé entre 2 évènements.
+Une définition communément acceptée de tous est que le Temps *rend compte des changements dans le monde.* Ce que nous appelons communément le Temps, n'est autre que la *mesure de la durée*. C'est-à-dire le temps qui s'est écoulé entre 2 évènements.
 
-Cette mesure de la durée se base sur des phénomènes périodiques (jours, oscillations d'un pendule) ou quantique (temps de transition électronique dans l'atome par exemple). Selon ***Platon***, dans les *Définitions*, le temps est le « mouvement du soleil, mesure de sa course ». Par ces propos, il exprime le fait le temps peut être preçu comme la perception du "movement."
+Cette mesure de la durée se base sur des phénomènes périodiques (jours, oscillations d'un pendule) ou quantique (temps de transition électronique dans l'atome par exemple). Selon ***Platon***, dans les *Définitions*, le temps est le « mouvement du soleil, mesure de sa course ». Par ces propos, il exprime le fait que le temps peut être preçu comme la perception du « *mouvement* ».
 
 De manière chronologique le Temps peut être vu ainsi :
 
--   Le passé désigne l'information accessible à l'observateur présent.
+-   Le ***passé*** désigne l'information accessible à l'observateur présent.
 
--   Le futur désigne l'information que l'observateur, présent, associe à l'anticipation.
+-   Le ***futur*** désigne l'information que l'observateur, présent, associe à l'anticipation.
 
--   Le présent qui désigne l'immédiat et la relation entre information et matière.
+-   Le ***présent*** qui désigne l'immédiat et la relation entre information et matière.
 
-![Vision du Temps du Chronos, "Hier était le jour précédent et demain sera le jour suivant parce que je suis aujourd'hui"](présent.gif){fig-align="center" width="9.8cm" height="3cm"}
+![Vision du Temps du Chronos, « *Hier était le jour précédent et demain sera le jour suivant parce que je suis aujourd'hu*i »](présent.gif){fig-align="center" width="9.8cm" height="3cm"}
 
-La notion de temps est un corollaire de la notion de mouvement : le mouvement est la variation des choses la plus accessible à la perception. La variation n'existe que dans la durée. Ainsi, selon Aristote, le temps est le nombre du mouvement selon l\'antérieur et le postérieur.
+La notion de Temps est un corollaire de la notion de mouvement : le mouvement est la variation des choses la plus accessible à la perception. La variation n'existe que dans la durée. Ainsi, selon Aristote, le temps est le nombre du mouvement selon l'antérieur et le postérieur.
 
 Le temps semble donc supposer à la fois changement et permanence.
 
 Le Temps englobe plusieurs notions. En effet, le temps met en évidence à la fois le changement et la permanence. 
 
-Le changement est mis est en évidence par le fait que les « objets » de toutes sortes sont altérés par des « évènements » et que ce processus prend place dans un temps partagé par tous ceux qui en ont conscience. Par ailleurs, il met en exergue la permanence par le fait que les objets ou du moins leur  « substances », sont censées demeurer les mêmes, malgré les changements qu\'ils subissent.
+Le changement est mis est en évidence par le fait que les « objets » de toutes sortes sont altérés par des « évènements » et que ce processus prend place dans un temps partagé par tous ceux qui en ont conscience. Par ailleurs, il met en exergue la permanence par le fait que les objets ou du moins leur  « substances », sont censées demeurer les mêmes, malgré les changements qu'ils subissent.
 
-De ces éléments, nous pouvons ajouter à l\'étude du temps la notion de simultanéité (ou synchronie). La simultanéité n\'est autre que l\'idée qu\'à un même moment, des événements en nombre peut-être infini se déroulent conjointement, *a priori* sans aucun rapport les uns avec les autres. En opposition, se trouve la notion de de succession ou de diachronie. En d\'autres termes, l\'antériorité et la postériorité : si deux événements ne sont pas simultanés, c\'est que l\'un a lieu *après* l\'autre. Deux moments ressentis comme différents sont ainsi nécessairement successifs. Néanmoins, de la simple succession, ou de la simultanéité, la durée ne peut être déduite. En effet, quand une même vidéo est projetée à une vitesse plus ou moins grande, l\'ordre des événements y est conservé, mais pas la durée.
+De ces éléments, nous pouvons ajouter à l'étude du temps la notion de simultanéité (ou synchronie). La simultanéité n'est autre que l'idée qu'à un même moment, des événements en nombre peut-être infini se déroulent conjointement, *a priori* sans aucun rapport les uns avec les autres. En opposition, se trouve la notion de de succession ou de diachronie. En d'autres termes, l'antériorité et la postériorité : si deux événements ne sont pas simultanés, c'est que l'un a lieu *après* l'autre. Deux moments ressentis comme différents sont ainsi nécessairement successifs. Néanmoins, de la simple succession, ou de la simultanéité, la durée ne peut être déduite. En effet, quand une même vidéo est projetée à une vitesse plus ou moins grande, l'ordre des événements y est conservé, mais pas la durée.
 
-Ces notions font notamment appel à la mémoire, individuelle ou collective : le classement des événements dans un ordre quelconque ne peut se faire que si l\'observateur se souvient, de manière spontanée (remémoration spontanée) ou construite (effort de mémoire), individuelle ou collective.
+Ces notions font notamment appel à la mémoire, individuelle ou collective : le classement des événements dans un ordre quelconque ne peut se faire que si l'observateur se souvient, de manière spontanée (remémoration spontanée) ou construite (effort de mémoire), individuelle ou collective.
 
-De façon opposée, la mémoire se construit grâce au fait que certains événements se répètent (saisons, évènements), autorisant ainsi l\'apprentissage (individuel ou collectif). De façon plus générale, il semble que le temps puisse être considéré (et considérer n\'est pas connaître) sous au moins deux aspects :
+De façon opposée, la mémoire se construit grâce au fait que certains événements se répètent (saisons, évènements), autorisant ainsi l'apprentissage (individuel ou collectif). De façon plus générale, il semble que le temps puisse être considéré (et considérer n'est pas connaître) sous au moins deux aspects :
 
--   l\'aspect cyclique : cycle des jours, des saisons de la vie...
+-   ***l'aspect cyclique*** : cycle des jours, des saisons de la vie...
 
--   l\'aspect linéaire : évolution, transformation irréversible, passage de la naissance à la mort
+-   ***l'aspect linéaire*** : évolution, transformation irréversible, passage de la naissance à la mort.
 
-Les phénomènes périodique naturels ont permis d\'établir très tôt une référence de durée, à savoir ***le calendrier***, et donc de *quantifier* le temps, c'est-à-dire lui associer un nombre et une unité, en effectuer une mesure. Aux temps modernes, des phénomènes périodiques artificiels ont permis de mesurer des durées plus courtes avec des horloges. Toutefois, cette connaissance est au mieux celle d\'une substance du temps : elle n\'apprend rien sur sa nature intrinsèque, car la mesure n\'est pas le temps -- il faut du temps pour établir une mesure. Définir le temps en lui-même semble au-delà de nos capacités, probablement du fait que nous sommes tout à la fois dans le temps, et nous-mêmes du temps (physiquement et psychiquement). A ***Saint Augustin*** de conclure, « *Ce mot, quand nous le prononçons, nous en avons, à coup sûr, l\'intelligence et de même quand nous l\'entendons prononcer par d\'autres. Qu'est-ce donc que le temps ? Si personne ne m'interroge, je le sais ; si je veux répondre à cette demande, je l'ignore* ».
+Les phénomènes périodiques naturels ont permis d'établir très tôt une référence de durée, à savoir ***le calendrier***, et donc de *quantifier* le temps, c'est-à-dire lui associer un nombre et une unité, en effectuer une mesure. Aux temps modernes, des phénomènes périodiques artificiels ont permis de mesurer des durées plus courtes avec des horloges. Toutefois, cette connaissance est au mieux celle d'une substance du temps : elle n'apprend rien sur sa nature intrinsèque, car la mesure n'est pas le temps -- il faut du temps pour établir une mesure. Définir le temps en lui-même semble au-delà de nos capacités, probablement du fait que nous sommes tout à la fois dans le temps, et nous-mêmes du temps (physiquement et psychiquement). A ***Saint Augustin*** de conclure, « *Ce mot, quand nous le prononçons, nous en avons, à coup sûr, l'intelligence et de même quand nous l'entendons prononcer par d'autres. Qu'est-ce donc que le temps ? Si personne ne m'interroge, je le sais ; si je veux répondre à cette demande, je l'ignore* ».
 
 # L'Horlogerie
 
