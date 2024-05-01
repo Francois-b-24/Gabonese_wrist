@@ -12,16 +12,15 @@ fields: [reading-time]
 
 Chers lecteurs,
 
-J'ose imaginer que vous savez tous ce qu'est un bracelet, des aiguilles, etc. Mais je me doute que vous avez également entendu des termes plus farfelus les uns-que les autres concernant les montres. 😄
+J'ose imaginer que vous savez tous ce qu'est un bracelet, des aiguilles, etc. Mais je me doute que vous avez également entendu des termes plus farfelus les uns-que les autres concernant les montres.
 
-Comme une multitude de domaines, l'horlogie dispose d'un vocabulaire technique qui lui est propre. C'est pourquoi, il sera question ici de proposer une liste la plus exhaustive soit-elle, du vocabulaire holorger.
+Comme une multitude de domaines, l'horlogie dispose d'un vocabulaire technique qui lui est propre. C'est pourquoi, il sera question dans cet article de proposer une liste la plus exhaustive soit-elle, du vocabulaire holorger.
 
 # **Lexique :**
 
 <details>
 
 <summary>ATM</summary>
-
 
 <br> Abbréviation d' « atmosphère normale », ATM est une unité de pression indiquant l'étanchéité d'une montre. Par exemple, une montre offrant une étanchéité de 10ATM résiste à une pression de 10 bars, soit 100 mètres de profondeur. Cependant, c'est une indication à ne pas prendre au premier degré. Par exemple, la plongée requiert une capacité de 20ATM minimum.
 
@@ -63,6 +62,8 @@ Comme une multitude de domaines, l'horlogie dispose d'un vocabulaire technique q
 
 <br> Les appliques sont les index ou marquages découpés dans une plaque métallique puis apposés à même le cadran, soit par collage ou par rivetage.
 
+![](appliques.jpeg){fig-align="center" width="10cm"}
+
 </details>
 
 <details>
@@ -71,13 +72,7 @@ Comme une multitude de domaines, l'horlogie dispose d'un vocabulaire technique q
 
 <br> Élément mobile généralement de forme circulaire, c'est l'organe qui règle la montre. Celui-ci oscille sur son axe de rotation et est accouplé au spiral, ressort lui permettant d'imprimer un mouvement de va-et-vient parfaitement régulier, appelé oscillation (le fameux « tic-tac »). Dans le cas des montres à quartz, le spiral est remplacé par un moteur électrique alimenté par une pile.
 
-</details>
-
-<details>
-
-<summary>Bar</summary>
-
-<br> Unité de pression atmosphérique de référence, 1 bar soit 1013 hectopascals, c'est un terme permettant d'indiquer l'étanchéité d'une montre (voir aussi ATM).
+![](balancier.jpeg){fig-align="center" width="10cm"}
 
 </details>
 
@@ -94,6 +89,8 @@ Comme une multitude de domaines, l'horlogie dispose d'un vocabulaire technique q
 <summary>Barillet</summary>
 
 <br> Le barillet est un ensemble formé d'une boîte cylindrique et d'une roue dentée fermée par un couvercle. Il permet d'accumuler l'énergie produite par le système de remontage pour ensuite la redistribuer aux différents engrenages du mouvement.
+
+![](barillet.jpeg){fig-align="center" width="10cm"}
 
 </details>
 
