@@ -8,7 +8,7 @@ categories: [Histoire & savoir-faire]
 fields: [reading-time]
 ---
 
-![Calibre *Luc Chorpard* avec apposé Côtes de Genève et Poinçon de Genève.](IMG_2265.JPG){fig-align="center" width="20cm"}
+![Calibre Luc Chorpard avec Côtes de Genève et Poinçon de Genève.](IMG_2265.JPG){fig-align="center" width="20cm"}
 
 Chers lecteurs,
 
@@ -18,13 +18,16 @@ Comme une multitude de domaines, l'horlogie dispose d'un vocabulaire technique q
 
 # **Lexique :**
 
+
 <details>
+
 
 <summary>ATM</summary>
 
+
 <br> Abbréviation d' « atmosphère normale », ATM est une unité de pression indiquant l'étanchéité d'une montre. Par exemple, une montre offrant une étanchéité de 10ATM résiste à une pression de 10 bars, soit 100 mètres de profondeur. Cependant, c'est une indication à ne pas prendre au premier degré. Par exemple, la plongée requiert une capacité de 20ATM minimum.
 
-![Tudor Pelagos, étenchéité de 50 ATM](atm.jpeg){fig-align="center" width="10cm"}
+![Tudor Pelagos, étenchéité de 50 ATM](atm.jpeg){fig-align="left" width="10cm"}
 
 </details>
 
@@ -669,3 +672,4 @@ Comme une multitude de domaines, l'horlogie dispose d'un vocabulaire technique q
 <br> La trotteuse est le nom donné à l'aiguille des secondes qui, avançant par à-coups, suit les oscillations du balancier. La grande trotteuse est fixée au centre du cadran alors que la petite trotteuse est elle placée sur un cadran spécifique.
 
 </details>
+
