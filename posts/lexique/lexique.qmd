@@ -8,24 +8,19 @@ categories: [Histoire & savoir-faire]
 fields: [reading-time]
 ---
 
-
 ![Calibre Luc Chorpard avec Côtes de Genève et Poinçon de Genève.](IMG_2265.JPG){fig-align="center" width="20cm"}
-
 
 Chers lecteurs,
 
 J'ose imaginer que vous savez tous ce qu'est un bracelet, des aiguilles, etc. Mais je me doute que vous avez également entendu des termes plus farfelus les uns-que les autres concernant les montres.
 
-Comme une multitude de domaines, l'horlogie dispose d'un vocabulaire technique qui lui est propre. C'est pourquoi, il sera question dans cet article de proposer une liste la plus exhaustive soit-elle, du vocabulaire holorger.
+Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique qui lui est propre. C'est pourquoi, il sera question dans cet article de proposer une liste la plus exhaustive soit-elle, du vocabulaire holorger.
 
 # **Lexique :**
 
-
 <details>
 
-
 <summary>ATM</summary>
-
 
 <br> Abbréviation d' « atmosphère normale », ATM est une unité de pression indiquant l'étanchéité d'une montre. Par exemple, une montre offrant une étanchéité de 10ATM résiste à une pression de 10 bars, soit 100 mètres de profondeur. Cependant, c'est une indication à ne pas prendre au premier degré. Par exemple, la plongée requiert une capacité de 20ATM minimum.
 
@@ -103,7 +98,9 @@ Comme une multitude de domaines, l'horlogie dispose d'un vocabulaire technique q
 
 <summary>Boîtier</summary>
 
-<br> Le boîtier (ou boîte) est la principale protection d'une montre et permet de protéger le mécanisme contre les chocs, l'humidité ainsi que la poussière. Il est composé d'une partie principale appelée carrure contenant le mouvement, le cadran et les aiguilles, à laquelle sont fixés les divers éléments extérieurs.
+<br> Le boîtier (ou boîte) est la principale protection d'une montre et permet de protéger le mécanisme contre les chocs, l'humidité ainsi que la poussière. Il est composé d'une partie principale appelée carrure contenant le mouvement, le cadran et les aiguilles, à laquelle sont fixés les divers éléments extérieurs.
+
+![](Boitier-plongeuse-30-ATM-serica.jpeg){fig-align="center" width="10cm"}
 
 </details>
 
@@ -113,6 +110,8 @@ Comme une multitude de domaines, l'horlogie dispose d'un vocabulaire technique q
 
 <br> La boucle ardillon est le type de fermoir le plus classique, composé d'une pointe métallique articulée sur une boucle permettant de fermer le bracelet grâce à une perforation dans le brin percé.
 
+![](ardillon.jpeg){fig-align="center" width="10cm"}
+
 </details>
 
 <details>
@@ -121,13 +120,15 @@ Comme une multitude de domaines, l'horlogie dispose d'un vocabulaire technique q
 
 <br> La boucle déployante est un fermoir articulé qui se déploie lors de son ouverture. Elle permet notamment à la montre de flotter autour du poignet en cas d'ouverture accidentelle.
 
+![](boulce_deployante.jpeg){fig-align="center" width="10cm"}
+
 </details>
 
-<details>
-
-<summary>Cabochon</summary>
+<details>![]()<summary>Cabochon</summary>
 
 <br> Désigne un type d'ornement utilisé sur la couronne et parfois sur le cadran. Il s'agit généralement d'une pierre précieuse ou fine, polie (et non taillée).
+
+![](cabochon.jpeg){fig-align="center" width="10cm"}
 
 </details>
 
@@ -137,6 +138,8 @@ Comme une multitude de domaines, l'horlogie dispose d'un vocabulaire technique q
 
 <br> Le cadran est une pièce généralement métallique sur laquelle s'affiche des indications diverses telles que les heures, minutes et secondes.
 
+![](cadran_patek.jpeg){fig-align="center" width="10cm"}
+
 </details>
 
 <details>
@@ -144,6 +147,8 @@ Comme une multitude de domaines, l'horlogie dispose d'un vocabulaire technique q
 <summary>Carrure</summary>
 
 <br> La carrure est l'une des trois pièces maîtresses du boîtier qui accueille le mouvement. Elle se trouve entre le fond de boîte et la lunette de la montre.
+
+![](carrure.jpeg){fig-align="center" width="10cm"}
 
 </details>
 
@@ -161,13 +166,17 @@ Comme une multitude de domaines, l'horlogie dispose d'un vocabulaire technique q
 
 <br> Appareil d'horloger permettant de tester rapidement la marche d'une montre, généralement en 1 à 3 minutes, grâce au son généré par les chocs de l'échappement. Ceux-ci sont ensuite transformés en émissions de courant éléctrique variable puis amplifiés. Un chronocomparateur permet notamment de de vérifier la précision d'une montre puis de détecter des anomalies.
 
+![](chronocomparateur.jpeg){fig-align="center" width="10cm"}
+
 </details>
 
 <details>
 
 <summary>Chronographe</summary>
 
-<br> Un chronographe est une montre indiquant les heures, les minutes et les secondes, complétée d'une aiguille se mettant en marche/arrêt sur simple action d'un poussoir afin de mesurer la durée d'un événement. Il possède généralement des compteurs d'heures et minutes totalisant les tours de l'aiguille du chronographe.
+<br> Un chronographe est une montre indiquant les heures, les minutes et les secondes, complétée d'une aiguille se mettant en marche/arrêt sur simple action d'un poussoir afin de mesurer la durée d'un événement. Il possède généralement des compteurs d'heures et minutes totalisant les tours de l'aiguille du chronographe.
+
+![](Chronographe.jpeg){fig-align="center" width="10cm"}
 
 </details>
 
@@ -177,6 +186,8 @@ Comme une multitude de domaines, l'horlogie dispose d'un vocabulaire technique q
 
 <br> Plus qu'un simple appareil de mesure du temps, en horlogerie, un chronomètre désigne une montre de haute précision ayant obtenu une certification de chronométrie par une organisation spécialisée, neutre et officielle. On recense notamment le Contrôle Officiel Suisse des Chronomètres (COSC), l'observatoire de Genève ou celui de Neuchâtel mais aussi le METAS-Cert
 
+![](chronometre.jpeg){fig-align="center" width="10cm"}
+
 </details>
 
 <details>
@@ -184,6 +195,8 @@ Comme une multitude de domaines, l'horlogie dispose d'un vocabulaire technique q
 <summary>Clous de Paris</summary>
 
 <br> Type de guillochage que l'on retrouve sur des cadrans très classiques, composé de lignes entrecroisée set creusées, formant de petites pyramides.
+
+![](Guillochage-Clous-de-Paris-Patek-Philippe-Calatrava-ref-6119-1024x682.jpg){fig-align="center" width="10cm"}
 
 </details>
 
@@ -193,13 +206,17 @@ Comme une multitude de domaines, l'horlogie dispose d'un vocabulaire technique q
 
 <br> Par définition, le terme coaxial signifie « sur le même axe » et désigne donc un mouvement possédant plusieurs aiguilles sur le même axe (heures, minutes, secondes).
 
+![](coaxial.webp){fig-align="center" width="10cm"}
+
 </details>
 
 <details>
 
 <summary>Complication</summary>
 
-<br> La complication désigne toute autre fonction qu'une montre peut posséder autre que l'indication des heures, minutes et secondes. Cela comprend par exemple le calendrier perpétuel, le tourbillon, les fuseaux horaires, le chronographe ou encore les phases de lune.
+<br> La complication désigne toute autre fonction qu'une montre peut posséder autre que l'indication des heures, minutes et secondes. Cela comprend par exemple le calendrier perpétuel, le tourbillon, les fuseaux horaires, le chronographe ou encore les phases de lune.
+
+![](iwc.avif){fig-align="center" width="10cm"}
 
 </details>
 
@@ -224,6 +241,8 @@ Comme une multitude de domaines, l'horlogie dispose d'un vocabulaire technique q
 <summary>Côtes de Genève</summary>
 
 <br> La décoration en **côtes de Genève** est un type de finition présent sur nombre de mouvements d'horlogerie, principalement pour les platines. Cette décoration est formée de stries parallèles, ondulées, usinées dans le métal à l'aide d'un outil rotatif abrasif qui effectue des passes successives parallèles. Ce type de finition est emblématique de l'horlogerie suisse depuis le fin du [xix]{.smallcaps}^e^ siècle. Les sillons avaient historiquement le rôle de capturer les poussières afin d'éviter qu'elles viennent bloquer les engrenages, cependant la fonction de ces finitions est maintenant surtout décorative.
+
+![](cotes-de-geneve-cover_2.jpg){fig-align="center" width="10cm"}
 
 </details>
 
@@ -674,4 +693,3 @@ Comme une multitude de domaines, l'horlogie dispose d'un vocabulaire technique q
 <br> La trotteuse est le nom donné à l'aiguille des secondes qui, avançant par à-coups, suit les oscillations du balancier. La grande trotteuse est fixée au centre du cadran alors que la petite trotteuse est elle placée sur un cadran spécifique.
 
 </details>
-
