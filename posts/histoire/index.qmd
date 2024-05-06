@@ -8,9 +8,8 @@ fields: [reading-time]
 ---
 
 ![Chronographe Patek Phillipe avec graduation pour pulsations](patekphilippe_7150_250R_001.jpg)
-
+::: {.grid}
 ::: {.g-col-12 .g-col-md-6}
-
 Chers lecteurs,
 
 Je dédie cet article aux 2 "*F*",
@@ -60,5 +59,4 @@ Patek Philippe lança une publicité qui annonçait : " Une Patek Philippe ne se
 Les années 1970 ont été la décennie ou les maisons d'horlogerie ont misé sur le design. C'est l'horloger Gerald Genta qui a créé certains des modèles de montres les plus célèbres telles que la Nautilus de Patek Phillipe, la Royal Oak de chez Audemars Piguet.
 
 Au fil des années, la fabrication des montres a vécu un nouvel élan technique et créatif. Une montre mécanique incarne la magie d'une connaissance technique qui fascine toujours ; elle représente les valeurs intrinsèques et intangibles liés au prestige de posséder un objet convoité pour son design et son mécanisme. Ce n'est pas une question de luxe ou de statut social mais plutôt la recherche de l'excellence créative et culturel.
-
 :::
