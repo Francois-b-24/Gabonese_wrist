@@ -124,7 +124,11 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 
 </details>
 
-<details>![]()<summary>Cabochon</summary>
+<details>
+
+![]()
+
+<summary>Cabochon</summary>
 
 <br> Désigne un type d'ornement utilisé sur la couronne et parfois sur le cadran. Il s'agit généralement d'une pierre précieuse ou fine, polie (et non taillée).
 
@@ -226,6 +230,8 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 
 <br> Solidaires de la carrure et situées aux extrémités du boîtier, les cornes ont pour fonction d'accrocher le bracelet à la montre. La petite barrette qui s'y loge grâce à de petits trous, passant aussi à l'intérieur du bracelet afin de le maintenir, est également appelée entre-corne.
 
+![](cornes.webp){fig-align="center" width="10cm"}
+
 </details>
 
 <details>
@@ -252,6 +258,8 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 
 <br> La couronne (de remontoir) est un bouton présent à l'extérieur du boîtier permettant de remonter le mouvement manuellement ainsi que de régler l'heure de la montre.
 
+![](couronne.webp){fig-align="center" width="10cm"}
+
 </details>
 
 <details>
@@ -260,6 +268,8 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 
 <br> Reprenant la forme d'un triangle effilé dont la forme se continue vers l'embase, les aiguilles dauphines affichent généralement un certain relief sur leur partie centrale, créant des facettes jouant avec les reflets de lumière.
 
+![](dauphine.jpeg){fig-align="center" width="10cm"}
+
 </details>
 
 <details>
@@ -267,6 +277,8 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 <summary>Echappement</summary>
 
 <br> Désigne le mécanisme positionné entre le rouage (l'ensemble des roues et pignons transmettant la force depuis le barillet) et l'organe réglant (ou régulateur -- soit le duo balancier et spiral -- permettant la division en périodes de temps). L'échappement permet d'interrompre le mouvement des roues afin de distribuer l'énergie au balancier à intervalles réguliers. La quasi-totalité des montres suisses utilisent un échappement à ancre composé de 3 groupes de pièces : la roue d'échappement, l'ancre et le double plateau.
+
+![](echappement.jpeg){fig-align="center" width="10cm"}
 
 </details>
 
@@ -284,6 +296,8 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 
 <br> Espace situé entre les cornes d'un boîtier de montre. Sa mesure détermine généralement la largeur du bracelet pouvant être fixé au boîtier. Dans certains cas, l'entre-corne est aussi utilisée pour désigner la tige métallique (pompe) permettant de fixer le bracelet.
 
+![](entre-corne.avif){fig-align="center" width="10cm"}
+
 </details>
 
 <details>
@@ -291,6 +305,8 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 <summary>Fly-Back</summary>
 
 <br> Aussi appelé « retour en vol », le fly-back est une fonction ayant été mise au point pour les pilotes d'avion, permettant de mesurer la durée d'un événement et de le remettre à zéro sans avoir à arrêter l'aiguille du chronographe.
+
+![](flyback.avif){fig-align="center" width="10cm"}
 
 </details>
 
@@ -306,7 +322,7 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 
 <summary>Fréquence</summary>
 
-<br> Mesurée en hertz, la fréquence fait référence au nombre d'oscillations qu'effectue le balancier d'une montre en une seule seconde (généralement compris entre 5 et 10). Par vulgarisation, on la traduit souvent en nombre d'alternances par heure, soit 18000 (2,5Hz), 21600 (3Hz), 28800 (4Hz) ou 36000 (5Hz)
+<br> Mesurée en hertz, la fréquence fait référence au nombre d'oscillations qu'effectue le balancier d'une montre en une seule seconde (généralement compris entre 5 et 10). Par vulgarisation, on la traduit souvent en nombre d'alternances par heure, soit 18000 (2,5Hz), 21600 (3Hz), 28800 (4Hz) ou 36000 (5Hz).
 
 </details>
 
@@ -314,7 +330,9 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 
 <summary>GMT</summary>
 
-<br> Abbréviation signifiant « Greenwich Mean Time ». Ce terme désigne l'heure solaire au méridien de l'observatoire de Greenwich en Angleterre, soit un temps civil d'une durée de 24 heures commençant à minuit. Sur une montre, la fonction GMT fait référence à l'affichage d'un second fuseau horaire de façon simultanée avec l'heure locale.
+<br> Abbréviation signifiant « Greenwich Mean Time ». Ce terme désigne l'heure solaire au méridien de l'observatoire de Greenwich en Angleterre, soit un temps civil d'une durée de 24 heures commençant à minuit. Sur une montre, la fonction GMT fait référence à l'affichage d'un second fuseau horaire de façon simultanée avec l'heure locale.
+
+![](gmt.png){fig-align="center" width="10cm"}
 
 </details>
 
@@ -324,6 +342,8 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 
 <br> Le gnomon fut l'un des tout premiers dispositifs de mesure du temps. Ancêtre du cadran solaire, cet instrument astronomique est composé d'un corps placé à la verticale et projetant une ombre dont la longueur détermine les moments de la journée. Au lever et au coucher du soleil, elle est infinie tandis qu'elle est la plus courte à midi lorsque le soleil est à son plus haut.
 
+![](gnomon-5892.png){fig-align="center" width="10cm"}
+
 </details>
 
 <details>
@@ -331,6 +351,8 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 <summary>Grande Date</summary>
 
 <br> Cette complication horlogère permet l'affichage de la date via deux disques distincts, contrairement à une date traditionnelle qui s'affiche sur un seul disque. Le résultat est une date surdimensionnée, d'où son nom de grande date.
+
+![](grande_date.jpeg){fig-align="center" width="10cm"}
 
 </details>
 
@@ -354,7 +376,7 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 
 <summary>Guichet</summary>
 
-<br> Petite ouverture située au niveau du cadran et sous laquelle est affichée diverses indications, notamment la date généralement à 3 heures. Un guichet peut aussi afficher d'autres informations telles que le jour, le mois, les phases lunaires, mais aussi les minutes/heures dans le cas d'une « montre à guichet ».
+<br> Petite ouverture située au niveau du cadran et sous laquelle est affichée diverses indications, notamment la date généralement à 3 heures. Un guichet peut aussi afficher d'autres informations telles que le jour, le mois, les phases lunaires, mais aussi les minutes/heures dans le cas d'une « montre à guichet ».
 
 </details>
 
@@ -363,6 +385,8 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 <summary>Guillochage</summary>
 
 <br> Technique de gravure, effectuée à la main avec un burin ou à la machine avec un tour à guillocher, permettant de décorer une surface métallique de lignes droites ou de courbes symétriques. Généralement présent sur les cadrans, le guillochage peut aussi être appliqué sur le boîtier d'une montre.
+
+![](guillochage.jpeg){fig-align="center" width="10cm"}
 
 </details>
 
@@ -386,15 +410,9 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 
 <summary>Heure Universelle</summary>
 
-<br> Complication inventée par l'horloger suisse Louis Cottier, permettant à une montre d'afficher simultanément l'heure des 24 fuseaux horaires du monde. L'heure universelle (ou worldtimer en anglais) fonctionne grâce à un anneau rotatif gradué sur 24 heures qui pointe vers un anneau fixe marqué du nom des grandes villes qui représentent chaque fuseau.
+<br> Complication inventée par l'horloger suisse Louis Cottier, permettant à une montre d'afficher simultanément l'heure des 24 fuseaux horaires du monde. L'heure universelle (ou worldtimer en anglais) fonctionne grâce à un anneau rotatif gradué sur 24 heures qui pointe vers un anneau fixe marqué du nom des grandes villes qui représentent chaque fuseau.
 
-</details>
-
-<details>
-
-<summary>Horloge Atomique</summary>
-
-<br> Horloge de très haute précision dont le dispositif oscillant utilise la fréquence des radiations émises entre deux niveaux d'énergie d'atomes. La plus précise d'entre elles dévie d'une seconde tous les 16 milliards d'années.
+![](patek_phillippe.jpeg){fig-align="center" width="10cm"}
 
 </details>
 
@@ -403,6 +421,8 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 <summary>Incabloc</summary>
 
 <br> Marque déposée d'amortisseur de chocs permettant de conserver l'alignement des axes du balancier d'un mouvement mécanique. Composé d'un bloc renfermant un chaton, une pierre à trou, un contre-pivot et un ressort-lyre, ce système antichocs est le plus utilisé dans les calibres suisses.
+
+![](Incabloc.jpeg){fig-align="center" width="10cm"}
 
 </details>
 
@@ -418,7 +438,7 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 
 <summary>Luminescence</summary>
 
-<br> Par définition la luminescence désigne l'émission de rayons de lumière. En horlogerie, il s'agit de la matière recouvrant l'index et les aiguilles permettant de lire l'heure dans l'obscurité. Le tritium fût la matière utilisée par le passé mais a été remplacée par le système LumiNova à cause de ses propriétés radioactives.
+<br> Par définition la luminescence désigne l'émission de rayons de lumière. En horlogerie, il s'agit de la matière recouvrant l'index et les aiguilles permettant de lire l'heure dans l'obscurité. Le tritium fût la matière utilisée par le passé mais a été remplacée par le système LumiNova à cause de ses propriétés radioactives.
 
 </details>
 
@@ -444,6 +464,8 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 
 <br> La lunette est l'un des éléments principaux du boîtier. Elle se trouve sur la partie supérieure, au-dessus de la carrure, et porte la glace de la montre. Celle-ci peut être tournante afin d'indiquer diverses informations telles que la durée d'un événement. Lorsqu'elle est unidirectionnelle, elle ne tourne que dans un seul sens, notamment pour les montres de plongée.
 
+![](lunette.jpeg){fig-align="center" width="10cm"}
+
 </details>
 
 <details>
@@ -466,7 +488,7 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 
 <summary>Montre Mécanique</summary>
 
-<br> Une montre mécanique, en opposition à une montre à quartz, est une montre qui fonctionne sans pile. Elle est animée par un mouvement à remontage manuel, nécessitant d'être remonté tous les jours en tournant la couronne, ou automatique qui se remonte par les mouvements de la personne via un rotor tournant autour d'un axe.
+<br> Une montre mécanique, en opposition à une montre à quartz, est une montre qui fonctionne sans pile. Elle est animée par un mouvement à remontage manuel, nécessitant d'être remonté tous les jours en tournant la couronne, ou automatique qui se remonte par les mouvements de la personne via un rotor tournant autour d'un axe.
 
 </details>
 
@@ -482,7 +504,9 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 
 <summary>NATO</summary>
 
-<br> Les bracelets NATO ont été mis au point en 1973 à la demande du Ministère de la Défense Britannique qui recherchait un bracelet résistant à toute épreuve afin d'équiper ses armées. Cette origine militaire résonne toujours dans leur nom : North Atlantic Treaty Organization (NATO ou OTAN en français).
+<br> Les bracelets NATO ont été mis au point en 1973 à la demande du Ministère de la Défense Britannique qui recherchait un bracelet résistant à toute épreuve afin d'équiper ses armées. Cette origine militaire résonne toujours dans leur nom : North Atlantic Treaty Organization (NATO ou OTAN en français).
+
+![](NATO.jpeg){fig-align="center" width="10cm"}
 
 </details>
 
@@ -491,6 +515,8 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 <summary>Organe Réglant</summary>
 
 <br> Les organes réglants, aussi appelés régulateurs, désignent le balancier et le spiral qui fonctionnent avec l'échappement à ancre. Ils permettent le comptage du temps ainsi que la division en heures, minutes et secondes.
+
+![](organes.jpeg){fig-align="center" width="10cm"}
 
 </details>
 
