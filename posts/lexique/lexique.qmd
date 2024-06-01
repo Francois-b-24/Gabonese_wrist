@@ -8,23 +8,23 @@ categories: [Histoire & savoir-faire]
 fields: [reading-time]
 ---
 
-![Calibre Luc Chorpard avec Côtes de Genève et Poinçon de Genève.](IMG_2265.JPG){fig-align="center" width="20cm"}
+![*Calibre Luc Chorpard avec Côtes de Genève et Poinçon de Genève.*](IMG_2265.JPG){fig-align="center" width="20cm"}
 
-Chers lecteurs,
+Chers lecteurs (trices),
 
-J'ose imaginer que vous savez tous ce qu'est un bracelet, des aiguilles, etc. Mais je me doute que vous avez également entendu des termes plus farfelus les uns-que les autres concernant les montres.
+Je me doute que, comme moi, il y a des termes horlogers qui sont arrivés à vos oreilles sans pour autant en connaître la signification. Des termes plus farfelus les uns-que les autres mais aussi epris d'histoire.
 
-Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique qui lui est propre. C'est pourquoi, il sera question dans cet article de proposer une liste la plus exhaustive soit-elle, du vocabulaire holorger.
+Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique qui lui est propre. C'est pourquoi, il sera question dans cet article de proposer une liste la plus exhaustive soit-elle, du vocabulaire holorger. A noter que comme le temps, cette liste n'est pas statique et se voit agrémentée au fil de l'eau.
 
-# **Lexique :**
+# **Vocabulaire :**
 
 <details>
 
 <summary>ATM</summary>
 
-<br> Abbréviation d' « atmosphère normale », ATM est une unité de pression indiquant l'étanchéité d'une montre. Par exemple, une montre offrant une étanchéité de 10ATM résiste à une pression de 10 bars, soit 100 mètres de profondeur. Cependant, c'est une indication à ne pas prendre au premier degré. Par exemple, la plongée requiert une capacité de 20ATM minimum.
+<br> Abbréviation d' « atmosphère normale » , ATM est une unité de pression indiquant l'étanchéité d'une montre. Par exemple, une montre offrant une étanchéité de **10 ATM** résiste à une pression de **10 bars**, soit **100 mètres de profondeur**.
 
-![Tudor Pelagos, étenchéité de 50 ATM](atm.jpeg){fig-align="left" width="10cm"}
+![Tudor Pelagos, étenchéité de 50 ATM](atm.jpeg){fig-align="center" width="10cm"}
 
 </details>
 
@@ -32,7 +32,7 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 
 <summary>Alternance</summary>
 
-<br> Déplacement d'un pendule ou d'un balancier entre deux positions extrêmes (A' \> A »). Deux alternances, soit un aller-retour, constituent une oscillation, soit le fameux « tic-tac » d'une montre. En règle générale, un balancier compte 5 oscillations par seconde (fréquence de marche de 18,000 alternances à l'heure -- 2,5Hz), 8 oscillations par seconde (fréquence de marche de 28,800 alternances à l'heure -- 4Hz) ou 10 oscillations par seconde (fréquence de marche de 36,000 alternances à l'heure -- 5Hz).
+<br> Déplacement d'un pendule ou d'un balancier entre deux positions extrêmes (A' \> A »). Deux alternances, soit un aller-retour, constituent une oscillation, soit le fameux « tic-tac » d'une montre. En règle générale, un balancier compte 5 oscillations par seconde (fréquence de marche de 18,000 alternances à l'heure -- 2,5Hz), 8 oscillations par seconde (fréquence de marche de 28,800 alternances à l'heure -- 4Hz) ou 10 oscillations par seconde (fréquence de marche de 36,000 alternances à l'heure -- 5Hz).
 
 </details>
 
@@ -40,7 +40,7 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 
 <summary>Amagnétique</summary>
 
-<br> Se dit d'une montre dont le fonctionnement des organes réglants ne sont pas affectés par le magnétisme. La majorité des pièces d'horlogerie étant fabriquées à partir de métaux et d'alliages ferreux, celles-ci sont habituellement déréglées par les champs magnétiques. La définition d'une montre antimagnétique est régie par la norme ISO 764, celle-ci devant être apte à fonctionner après une exposition accidentelle à un champ de 4800 A/m (soit 60 gauss).
+<br> Se dit d'une montre dont le fonctionnement des organes réglants ne sont pas affectés par le magnétisme. La majorité des pièces d'horlogerie étant fabriquées à partir de métaux et d'alliages ferreux, celles-ci sont habituellement déréglées par les champs magnétiques. La définition d'une montre antimagnétique est régie par la norme **ISO 764**, celle-ci devant être apte à fonctionner après une exposition accidentelle à un champ de 4800 A/m (soit 60 gauss).
 
 ![](amagnétisme.webp){fig-align="center" width="10cm"}
 
@@ -50,7 +50,7 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 
 <summary>Amplitude</summary>
 
-<br> Angle maximum entre les deux positions extrêmes d'une pendule ou d'un balancier (A\>A »). Cela équivaut au trajet complet effectué par le balancier lors d'une alternance. En règle générale, l'amplitude d'un balancier se situe entre 180° et 315°. Si l'amplitude dépasse cette valeur, le balancier peut buter contre la fourchette, ce que les horlogers appellent le rabattement.
+<br> Angle maximum entre les deux positions extrêmes d'une pendule ou d'un balancier (A\>A). Cela équivaut au trajet complet effectué par le balancier lors d'une alternance. En règle générale, l'amplitude d'un balancier se situe entre 180° et 315°. Si l'amplitude dépasse cette valeur, le balancier peut buter contre la fourchette, ce que les horlogers appellent le rabattement.
 
 ![](amplitude.jpeg){fig-align="center" width="10cm"}
 
@@ -70,17 +70,9 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 
 <summary>Balancier</summary>
 
-<br> Élément mobile généralement de forme circulaire, c'est l'organe qui règle la montre. Celui-ci oscille sur son axe de rotation et est accouplé au spiral, ressort lui permettant d'imprimer un mouvement de va-et-vient parfaitement régulier, appelé oscillation (le fameux « tic-tac »). Dans le cas des montres à quartz, le spiral est remplacé par un moteur électrique alimenté par une pile.
+<br> Élément mobile généralement de forme circulaire, c'est l'organe qui règle la montre. Celui-ci oscille sur son axe de rotation et est accouplé au spiral, ressort lui permettant d'imprimer un mouvement de va-et-vient parfaitement régulier, appelé oscillation (le fameux « tic-tac »). Dans le cas des montres à quartz, le spiral est remplacé par un moteur électrique alimenté par une pile.
 
 ![](balancier.jpeg){fig-align="center" width="10cm"}
-
-</details>
-
-<details>
-
-<summary>Bar</summary>
-
-<br> Unité de pression atmosphérique de référence, 1 bar soit 1013 hectopascals, c'est un terme permettant d'indiquer l'étanchéité d'une montre (voir aussi ATM).
 
 </details>
 
@@ -108,9 +100,9 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 
 <summary>Boucle ardillon</summary>
 
-<br> La boucle ardillon est le type de fermoir le plus classique, composé d'une pointe métallique articulée sur une boucle permettant de fermer le bracelet grâce à une perforation dans le brin percé.
+<br> La boucle ardillon est le type de fermoir le plus classique, composé d'une pointe métallique articulée sur une boucle permettant de fermer le bracelet grâce à une perforation dans le brin percé.
 
-![](ardillon.jpeg){fig-align="center" width="10cm"}
+![](ardillon.jpeg){fig-align="center" width="7.7cm"}
 
 </details>
 
@@ -125,8 +117,6 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 </details>
 
 <details>
-
-![]()
 
 <summary>Cabochon</summary>
 
@@ -160,7 +150,9 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 
 <summary>Chemin de fer</summary>
 
-<br> Échelle de minuterie imprimée sur le cadran qui se distingue de par sa ressemblance avec les rails d'un chemin de fer.
+<br> Échelle de minuterie imprimée sur le cadran qui se distingue de par sa ressemblance avec les rails d'un chemin de fer. Généralement visible sur les montres Cartier.
+
+![](chemin_de_fer_Cartier.avif){fig-align="center" width="10cm" height="10cm"}
 
 </details>
 
@@ -168,7 +160,7 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 
 <summary>Chronocomparateur</summary>
 
-<br> Appareil d'horloger permettant de tester rapidement la marche d'une montre, généralement en 1 à 3 minutes, grâce au son généré par les chocs de l'échappement. Ceux-ci sont ensuite transformés en émissions de courant éléctrique variable puis amplifiés. Un chronocomparateur permet notamment de de vérifier la précision d'une montre puis de détecter des anomalies.
+<br> Appareil d'horloger permettant de tester rapidement la marche d'une montre, généralement en 1 à 3 minutes, grâce au son généré par les chocs de l'échappement. Ceux-ci sont ensuite transformés en émissions de courant éléctrique variable puis amplifiés. Un chronocomparateur permet notamment de vérifier la précision d'une montre puis de détecter des anomalies.
 
 ![](chronocomparateur.jpeg){fig-align="center" width="10cm"}
 
@@ -188,7 +180,7 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 
 <summary>Chronomètre</summary>
 
-<br> Plus qu'un simple appareil de mesure du temps, en horlogerie, un chronomètre désigne une montre de haute précision ayant obtenu une certification de chronométrie par une organisation spécialisée, neutre et officielle. On recense notamment le Contrôle Officiel Suisse des Chronomètres (COSC), l'observatoire de Genève ou celui de Neuchâtel mais aussi le METAS-Cert
+<br> Plus qu'un simple appareil de mesure du temps, en horlogerie, un chronomètre désigne une montre de haute précision ayant obtenu une certification de chronométrie par une organisation spécialisée, neutre et officielle. On recense notamment le Contrôle Officiel Suisse des Chronomètres (COSC), l'observatoire de Genève ou celui de Neuchâtel mais aussi le METAS-Cert.
 
 ![](chronometre.jpeg){fig-align="center" width="10cm"}
 
@@ -198,7 +190,7 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 
 <summary>Clous de Paris</summary>
 
-<br> Type de guillochage que l'on retrouve sur des cadrans très classiques, composé de lignes entrecroisée set creusées, formant de petites pyramides.
+<br> Type de guillochage que l'on retrouve sur des cadrans très classiques, composé de lignes entrecroisées et creusées, formant de petites pyramides.
 
 ![](Guillochage-Clous-de-Paris-Patek-Philippe-Calatrava-ref-6119-1024x682.jpg){fig-align="center" width="10cm"}
 
@@ -208,7 +200,7 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 
 <summary>Coaxial</summary>
 
-<br> Par définition, le terme coaxial signifie « sur le même axe » et désigne donc un mouvement possédant plusieurs aiguilles sur le même axe (heures, minutes, secondes).
+<br> Par définition, le terme coaxial signifie « sur le même axe » et désigne donc un mouvement possédant plusieurs aiguilles sur le même axe (heures, minutes, secondes).
 
 ![](coaxial.webp){fig-align="center" width="10cm"}
 
@@ -228,7 +220,7 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 
 <summary>Corne</summary>
 
-<br> Solidaires de la carrure et situées aux extrémités du boîtier, les cornes ont pour fonction d'accrocher le bracelet à la montre. La petite barrette qui s'y loge grâce à de petits trous, passant aussi à l'intérieur du bracelet afin de le maintenir, est également appelée entre-corne.
+<br> Solidaires de la carrure et situées aux extrémités du boîtier, les cornes ont pour fonction d'accrocher le bracelet à la montre. La petite barrette qui s'y loge grâce à de petits trous, passant aussi à l'intérieur du bracelet afin de le maintenir, est également appelée entre-corne.
 
 ![](cornes.webp){fig-align="center" width="10cm"}
 
@@ -239,6 +231,8 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 <summary>COSC</summary>
 
 <br> Le Contrôle Officiel Suisse des Chronomètres (COSC), est une association à but non lucratif qui s'occupe de décerner le titre de chronomètre certifié. Pour cela, un système de mesures et de contrôles sur une durée de 15 jours a été rigoureusement mis en place afin de gager la fiabilité et la qualité des montres de manière individuelle (et non par collection). Pour une montre mécanique, l'écart de marche toléré selon les températures et positions testées se situe entre -4 et +6 secondes par jour.
+
+![](cosc.jpeg){fig-align="center" width="15.2cm"}
 
 </details>
 
@@ -304,7 +298,7 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 
 <summary>Fly-Back</summary>
 
-<br> Aussi appelé « retour en vol », le fly-back est une fonction ayant été mise au point pour les pilotes d'avion, permettant de mesurer la durée d'un événement et de le remettre à zéro sans avoir à arrêter l'aiguille du chronographe.
+<br> Aussi appelé « retour en vol », le fly-back est une fonction ayant été mise au point pour les pilotes d'avion, permettant de mesurer la durée d'un événement et de le remettre à zéro sans avoir à arrêter l'aiguille du chronographe.
 
 ![](flyback.avif){fig-align="center" width="10cm"}
 
@@ -330,7 +324,7 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 
 <summary>GMT</summary>
 
-<br> Abbréviation signifiant « Greenwich Mean Time ». Ce terme désigne l'heure solaire au méridien de l'observatoire de Greenwich en Angleterre, soit un temps civil d'une durée de 24 heures commençant à minuit. Sur une montre, la fonction GMT fait référence à l'affichage d'un second fuseau horaire de façon simultanée avec l'heure locale.
+<br> Abbréviation signifiant « Greenwich Mean Time ». Ce terme désigne l'heure solaire au méridien de l'observatoire de Greenwich en Angleterre, soit un temps civil d'une durée de 24 heures commençant à minuit. Sur une montre, la fonction GMT fait référence à l'affichage d'un second fuseau horaire de façon simultanée avec l'heure locale.
 
 ![](gmt.png){fig-align="center" width="10cm"}
 
@@ -404,6 +398,8 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 
 <br> Se dit d'une montre dont l'indication de l'heure se fait dans un guichet (généralement situé à midi) et dont le changement d'heure s'effectue par saut toutes les 60 minutes. Cette complication a été inventée par l'horloger français Blondeau dans les années 1830.
 
+![](heure_sautante.jpeg){fig-align="center" width="12.2cm"}
+
 </details>
 
 <details>
@@ -412,7 +408,7 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 
 <br> Complication inventée par l'horloger suisse Louis Cottier, permettant à une montre d'afficher simultanément l'heure des 24 fuseaux horaires du monde. L'heure universelle (ou worldtimer en anglais) fonctionne grâce à un anneau rotatif gradué sur 24 heures qui pointe vers un anneau fixe marqué du nom des grandes villes qui représentent chaque fuseau.
 
-![](patek_phillippe.jpeg){fig-align="center" width="10cm"}
+![](patek_phillippe.jpeg){fig-align="center" width="15cm"}
 
 </details>
 
@@ -446,7 +442,9 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 
 <summary>Luminova</summary>
 
-<br> Le LumiNova est une pâte lumineuse composée d'ampoules de tritum qui permet d'emmagasiner la lumière pour ensuite la refléter une fois plongée dans l'obscurité. Cette matière a permis d'écarter les sels de radium présentes dans le tritium et ainsi évincer la propriété radioactive de cette matière.
+<br> Le LumiNova est une pâte lumineuse composée d'ampoules de tritum qui permet d'emmagasiner la lumière pour ensuite la refléter une fois plongée dans l'obscurité. Cette matière a permis d'écarter les sels de radium présentes dans le tritium et ainsi évincer la propriété radioactive de cette matière.
+
+![](luminova.webp){fig-align="center" width="15cm"}
 
 </details>
 
@@ -542,6 +540,8 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 
 <br> Fonction permettant d'afficher les secondes dans un compteur déporté, contrairement à la grande seconde dont l'axe est situé au centre de la montre. On retrouve généralement la petite seconde à 6 ou 9 heures.
 
+![](TORIC-1-1.png){fig-align="center" width="10cm"}
+
 </details>
 
 <details>
@@ -556,7 +556,7 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 
 <summary>Phases de Lune</summary>
 
-<br> Les phases de lune sont une complication horlogère permettant l'affichage des diverses phases lunaires sur le cadran d'une montre. Une lunaison se divise en quatre phases : nouvelle lune, premier quartier, pleine lune et dernier quartier, effectuant un cycle complet en 29 jours, 12 heures, 44 minutes et 2,8 secondes.
+<br> Les phases de lune sont une complication horlogère permettant l'affichage des diverses phases lunaires sur le cadran d'une montre. Une lunaison se divise en quatre phases : nouvelle lune, premier quartier, pleine lune et dernier quartier, effectuant un cycle complet en 29 jours, 12 heures, 44 minutes et 2,8 secondes.
 
 </details>
 
@@ -700,7 +700,7 @@ Comme une multitude de domaines, l'horlogerie dispose d'un vocabulaire technique
 
 <summary>Tachymètre</summary>
 
-<br> Le tachymètre est un instrument permettant de mesurer la vitesse. Ce compteur de sport est muni d'un cadran à échelle qui lui sert à calculer une vitesse moyenne en fonction du temps nécessaire pour parcourir une distance donnée (souvent de 1000 mètres).
+<br> Le tachymètre est un instrument permettant de mesurer la vitesse. Ce compteur de sport est muni d'un cadran à échelle qui lui sert à calculer une vitesse moyenne en fonction du temps nécessaire pour parcourir une distance donnée (souvent de 1000 mètres).
 
 </details>
 
