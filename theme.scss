@@ -67,4 +67,27 @@ div.quarto-post .listing-categories .listing-category {
   background-color: $bs-blue;
 }
 
+/* Supprimer les marges pour le contenu des articles */
+.main-container {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.post-content {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+/* Supprimer les marges spécifiques pour les appareils mobiles */
+@media (max-width: 767px) {
+  .main-container {
+      padding: 0 !important;
+      margin: 0 !important;
+  }
+
+  .post-content {
+      padding: 0 !important;
+      margin: 0 !important;
+  }
+}
 
