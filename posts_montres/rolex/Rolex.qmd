@@ -1,6 +1,6 @@
 ---
 title: "*Cosmograph Daytona*"
-date: "2024-04-21"
+subtitle: "*Clique sur mon poignet pour savoir plus...*"
 date-modified: ""
 description: ""
 image: "IMG_2068_jpg.jpg"

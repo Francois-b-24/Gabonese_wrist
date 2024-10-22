@@ -5,12 +5,12 @@ comments: false
 listing:
   - id: posts
     contents: "posts/**/*/*.qmd"
-    fields: [image, date, title, categories, reading-time, subtitle] 
+    fields: [image, title, categories, subtitle] 
     sort: "date desc"
     categories: true
     type: grid
-    sort-ui: true
-    filter-ui: true
+    sort-ui: false
+    filter-ui: false
     page-size: 6
 
 page-layout: full

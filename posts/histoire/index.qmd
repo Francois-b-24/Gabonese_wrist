@@ -1,7 +1,5 @@
 ---
 title: "L’Horlogerie, croisade entre art & science"
-date: "2024-04-10"
-date-modified: ""
 description: ""
 categories: [Essai]
 fields: [reading-time]
@@ -11,7 +9,7 @@ fields: [reading-time]
 
 Chers lecteurs,
 
-Je dédie cet article aux 2 "*F*",
+Je dédie cet article aux 2 "*F*" ,
 
 # L'Horlogerie, croisade entre art & science
 
@@ -43,11 +41,11 @@ En 1868, l'atelier Patek Philippe créa pour la comtesse Koscowicz de Hongrie un
 
 Ces exemples témoignent du caractère uniques et priviligié que revêtaient les montres à cette époque.
 
-Ce n'est qu'au début du XXème siècle que l'on voit apparaître des modèles qui annoncent une nouvelle façon de porter les montres : **au poignet**. Les toutes premières montres-bracelet connues étaient destinées au femmes. Les hommes préférant les montres de gousset, beaucoup plus volumineuses, mais aussi plus robuste et fiables. Les premières montres-bracelets destinés aux hommes ont été dessinées par Girard-Perregaux e, 1880 pour les officiers de marine allemands.
+Ce n'est qu'au début du XXème siècle que l'on voit apparaître des modèles qui annoncent une nouvelle façon de porter les montres : **au poignet**. Les toutes premières montres-bracelet connues étaient destinées aux femmes. Les hommes préférant les montres de gousset, beaucoup plus volumineuses, mais aussi plus robuste et fiables. Les premières montres-bracelets destinés aux hommes ont été dessinées par Girard-Perregaux e, 1880 pour les officiers de marine allemands.
 
 Le grand élan de développement des montres-bracelets est dû au besoin de connaître vite et facilement l'heure durant les expériences de vol, d'abord dans le domaine civil puis militaire. En 1904, naissent les Santos dessinées par Louis Cartier pour l'avenurier et pilote Albert Santos-Dumont qui fit entrer la montre dans un autre univers. Celui de la mode et du style. C'est de là que par l'explosion du développement de modèles, une évolution technique continue et un produit en croissance constante au cours des ans.
 
-En 1970, l'horlogerie traditionnelle connue ce que l'on appelle la crise du Quartz. En effet, la crise du Quartz n'est autre que la période d'apparition des montres à *pile*. Ce type de composant permettant de faire fonctionner les montres est originaire de l'asie. Il se différiencie de l'horlogerie traditionnelle par son faible de coût de production. Ce qui entraîne donc des produits à des très compétitifs par rapport à ce que peut proposer l'horlogerie traditionnelle. Certains pensaient que c'était la fin des mouvement mécaniques.
+En 1970, l'horlogerie traditionnelle connue ce que l'on appelle la crise du Quartz. En effet, la crise du Quartz n'est autre que la période d'apparition des montres à *pile/batterie (litiom)*. Ce type de composant permettant de faire fonctionner les montres est originaire de l'Asie. Il se différiencie de l'horlogerie traditionnelle par son faible de coût de production. Ce qui entraîne donc des produits à des très compétitifs par rapport à ce que peut proposer l'horlogerie traditionnelle. Certains pensaient que c'était la fin des mouvement mécaniques.
 
 Néanmoins, les grandes marques traditionnelles ont su s'adapter aux changements. Elles ont changé leur stratégie commerciale et marketing. Faisant de la montre un objet non plus de marqueur social mais plutôt de style tout en gardant un gage de qualité.
 
@@ -57,4 +55,4 @@ Patek Philippe lança une publicité qui annonçait : " Une Patek Philippe ne se
 
 Les années 1970 ont été la décennie ou les maisons d'horlogerie ont misé sur le design. C'est l'horloger Gerald Genta qui a créé certains des modèles de montres les plus célèbres telles que la Nautilus de Patek Phillipe, la Royal Oak de chez Audemars Piguet.
 
-Au fil des années, la fabrication des montres a vécu un nouvel élan technique et créatif. Une montre mécanique incarne la magie d'une connaissance technique qui fascine toujours ; elle représente les valeurs intrinsèques et intangibles liés au prestige de posséder un objet convoité pour son design et son mécanisme. Ce n'est pas une question de luxe ou de statut social mais plutôt la recherche de l'excellence créative et culturel.
+Au fil des années, la fabrication des montres a vécu un nouvel élan technique et créatif. Une montre mécanique incarne la magie d'une connaissance technique qui fascine toujours ; elle représente les valeurs intrinsèques et intangibles liés au prestige de posséder un objet convoité pour son design et son mécanisme. *Ce n'est pas une question de luxe ou de statut social mais plutôt la recherche de l'excellence créative et culturel.*

@@ -3,6 +3,10 @@ project:
   preview:
     port: 4200
 
+#Configuration de la langue 
+lang: fr
+
+
 website:
   title: "Gabonese Wrist"
   back-to-top-navigation: true

@@ -1,7 +1,6 @@
 ---
 title: "Pourquoi l'horlogerie ?"
-subtitle: "*Introduction*"
-date: "2024-04-21"
+subtitle: "*Ma vision de l'horlogerie*"
 date-modified: ""
 image: "IMG_0900.jpg"
 description: ""
@@ -35,8 +34,6 @@ De manière chronologique le Temps peut être vu ainsi :
 
 La notion de Temps est un corollaire de la notion de mouvement : le mouvement est la variation des choses la plus accessible à la perception. La variation n'existe que dans la durée. Ainsi, selon Aristote, le temps est le nombre du mouvement selon l'antérieur et le postérieur.
 
-Le temps semble donc supposer à la fois changement et permanence.
-
 Le Temps englobe plusieurs notions. En effet, le temps met en évidence à la fois le changement et la permanence. 
 
 Le changement est mis est en évidence par le fait que les « objets » de toutes sortes sont altérés par des « évènements » et que ce processus prend place dans un temps partagé par tous ceux qui en ont conscience. Par ailleurs, il met en exergue la permanence par le fait que les objets ou du moins leur  « substances », sont censées demeurer les mêmes, malgré les changements qu'ils subissent.
@@ -59,7 +56,7 @@ J'avais moins de dix ans lorsque j'ai eu ma première montre au poignet.
 
 C'était un cadeau de mon grand-père, plus précisément c'était le modèle ***flik-flak*** de la marque [**Swatch**](https://www.swatch.com/fr-fr/). (Oui oui, je suis né à l'avènement du Quartz) - Modèle toujours commercialisé.
 
-Dès lors, cet objet ne représentait qu'un simple accessoire. Etant jeune, je ne réalisais pas forcément toutes les merveilles historiques qui se cachent derrière la fabrication de ces objets.
+Dès lors, cet objet ne représentait qu'un simple accessoire. Etant jeune, je ne réalisais pas forcément toutes les merveilles historiques qui se cachant derrière la fabrication de ces objets.
 
 Au fil du temps, cet objet n'est pas resté q'un simple accessoire mais il est devenu un véritable outil insdispensable à mon quotidien. Comme pour le votre d'ailleurs 😋. A partir de ce moment, j'ai commencé à y accorder plus d'intérêt.
 
