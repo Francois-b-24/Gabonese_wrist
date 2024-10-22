@@ -5,8 +5,10 @@ project:
 
 website:
   title: "Gabonese Wrist"
+  back-to-top-navigation: true
   site-url: 'http://gabonesewrist.com/'
   google-analytics: 'G-WE15K3S8JT'
+
   page-footer:
     left: "Website made with [Quarto](https://quarto.org/), by BOUSSENGUI François. License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)."
     right: 
@@ -32,11 +34,6 @@ website:
           - text: Cartier
             href: posts_montres/cartier.qmd
 
-      # Add RSS feed to navbar
-      # Link is given by {name}.xml where
-      # {name} is name of qmd-file generating the feed
-      #- icon: rss
-      #  href: about.xml
       - icon: github
         href: https://github.com/
       - icon: instagram
