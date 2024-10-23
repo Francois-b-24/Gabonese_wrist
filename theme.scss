@@ -1,5 +1,42 @@
 /*-- scss:defaults --*/
 
+
+.round-image {
+  border-radius: 50%; /* Rend l'image ronde */
+  width: 15em; /* Ajuste la taille de l'image */
+  height: 15em; /* Ajuste la hauteur de l'image pour garder un cercle parfait */
+  object-fit: cover; /* Assure que l'image s'adapte au conteneur tout en restant centrée */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#title-block-header {
+  background-image: url("patek_wrist.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 50px 0;
+  text-align: center; /* Centrer le texte */
+}
+
+.quarto-title {
+  padding: 20px;
+}
+
+h1.title {
+  font-size: 2.5em;
+  margin: 0;
+  color: white; /* Pour que le texte soit visible sur l'image */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Optionnel : ajoute un effet d'ombre pour améliorer la lisibilité */
+}
+
+p.subtitle {
+  font-size: 1.2em;
+  margin-top: 10px;
+  color: white; /* Couleur du sous-titre */
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5); /* Optionnel : effet d'ombre pour le sous-titre */
+}
+
 .quarto-title-meta-contents code {
   color: #003366; /* Couleur de texte en bleu foncé */
 }
@@ -103,12 +140,20 @@ span.menu-text {
 }
 
 .navbar {
-  background-color: $bs-blue;
+  background-color: #9f8105;
+  opacity: 0.7; /* Légère transparence si vous le souhaitez */
 }
 
-.quarto-title-banner{
-  background-color: #0c2e42 ;
+.nav-footer {
+  background-color: #9f8105;
+  opacity: 0.7; /* Légère transparence si vous le souhaitez */
 }
+
+.quarto-title-banner {
+  background-color: transparent !important;
+}
+
+
 
 .btn-primary {
     color: #fff;

@@ -1,12 +1,14 @@
 ---
 title: "L'Horloge rit sans l'Horlogerie ⌛ "
-subtitle: "*Un savoir-être indispensable - Parce-que sans Garde-Temps, la notion de Temps n'existe pas.*"
+subtitle: "*Un savoir-être indispensable - Parce-que sans le Temps, la notion de Garde-Temps n'existe pas.*"
 comments: false
 toc: false 
-image: moi.jpg 
+image: moi.jpg
+image-shape: round
 about:
   template: trestles
-  image-width: 15em
+  image-width: 20em
+  image-shape: round
   links: 
    - icon: instagram
      href: https://www.instagram.com/
@@ -21,5 +23,4 @@ title-block-banner: true
 ## [👋]{.wave} Bienvenue sur mon blog dédié à l'horlogerie !
 
 <iconify-icon icon="flag:ga-4x3"></iconify-icon>
-
 :::
