@@ -4,8 +4,8 @@
     "items": [
       "/posts/histoire/index.html",
       "/posts/introduction/index.html",
-      "/posts/histoire/Cartier.html",
-      "/posts/lexique/lexique.html"
+      "/posts/lexique/lexique.html",
+      "/posts/histoire/Cartier.html"
     ]
   },
   {
@@ -43,10 +43,10 @@
   {
     "listing": "/posts/index.html",
     "items": [
-      "/posts/histoire/index.html",
-      "/posts/introduction/index.html",
       "/posts/histoire/Cartier.html",
-      "/posts/lexique/lexique.html"
+      "/posts/lexique/lexique.html",
+      "/posts/histoire/index.html",
+      "/posts/introduction/index.html"
     ]
   },
   {

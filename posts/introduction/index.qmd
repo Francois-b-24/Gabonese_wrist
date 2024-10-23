@@ -1,5 +1,6 @@
 ---
 title: "Pourquoi l'horlogerie ?"
+author: ""
 subtitle: "*Ma vision de l'horlogerie*"
 date-modified: ""
 image: "IMG_0900.jpg"

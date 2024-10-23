@@ -1,7 +1,7 @@
 ---
 title: "*Cosmograph Daytona*"
-subtitle: "*Clique sur mon poignet pour savoir plus...*"
-date-modified: ""
+subtitle: ""
+author: ""
 description: ""
 image: "IMG_2068_jpg.jpg"
 fields: [reading-time]

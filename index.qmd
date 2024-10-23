@@ -2,17 +2,24 @@
 title: "L'Horloge rit sans l'Horlogerie ⌛ "
 subtitle: "*Un savoir-être indispensable - Parce-que sans Garde-Temps, la notion de Temps n'existe pas.*"
 comments: false
-listing:
-  - id: posts
-    contents: "posts/**/*/*.qmd"
-    fields: [image, title, categories, subtitle] 
-    sort: "date desc"
-    categories: true
-    type: grid
-    sort-ui: false
-    filter-ui: false
-    page-size: 6
+toc: false 
+image: moi.JPG 
+about:
+  template: trestles
+  image-width: 20em
+  links: 
+   - icon: instagram
+     href: https://www.instagram.com/
+   - icon: envelope
+     href: mailto:f.boussengui@gmail.com
 
 page-layout: full
 title-block-banner: true
 ---
+
+::: {style="text-align:center;"}
+## [👋]{.wave} Bienvenue sur mon blog dédié à l'horlogerie !
+
+<iconify-icon icon="flag:ga-4x3"></iconify-icon>
+
+:::

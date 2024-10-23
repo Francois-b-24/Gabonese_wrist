@@ -1,5 +1,6 @@
 ---
 title: "Rolex"
+author: ""
 listing:
   - id: posts
     contents: "**/rolex/*.qmd"

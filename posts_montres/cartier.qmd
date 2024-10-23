@@ -1,5 +1,6 @@
 ---
 title: "Cartier"
+author: ""
 listing:
   - id: posts
     contents: "**/cartier/*.qmd"

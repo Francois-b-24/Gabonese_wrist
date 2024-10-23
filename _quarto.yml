@@ -1,37 +1,49 @@
 project:
   type: website
-  preview:
-    port: 4200
-
+ 
 #Configuration de la langue 
 lang: fr
 
-
 website:
-  title: "Gabonese Wrist"
+  title: "*Gabonese Wrist 🇬🇦*"
   back-to-top-navigation: true
   site-url: 'http://gabonesewrist.com/'
   google-analytics: 'G-WE15K3S8JT'
 
   page-footer:
-    left: "Website made with [Quarto](https://quarto.org/), by BOUSSENGUI François. License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)."
+    background: primary
+    foreground: white
+    
+    left:
+      - text : Website made with **Quarto** 🛠️
+        href : https://quarto.org/
+
+    center:
+      - text : "© 2024, François BOUSSENGUI"
+
     right: 
-    - icon: github
-      href: https://github.com/
     - icon: instagram
       href: https://www.instagram.com/
     - icon: envelope
       href: mailto:f.boussengui@gmail.com 
+  
+  search: 
+    location: navbar
+    type: overlay
      
   navbar:
     right:
-      - text: A propos
-        menu:      
-          - text: Anglais
-            href: about-en.qmd
-          - text: Français 
-            href: about.qmd
-      - text: Montres 
+     
+      - text: "Acceuil"    
+        href: index.qmd
+
+      - text: "Articles"
+        href: posts/index.qmd
+      
+      - text: "Montres"
+        href: posts_montres/index.qmd
+        
+      - text: "Montres" 
         menu:
           - text: Rolex
             href: posts_montres/rolex.qmd
@@ -48,10 +60,21 @@ website:
   
 format:
   html:
-    smooth-scroll: true
-    theme: 
-      - pulse
-      - theme.scss
+    theme: theme.scss
+    extensions: [fontawesome]
+    googlefonts: 
+      - family: "Roboto"
+        weights: [400, 700]
+      - family: "Merriweather"
+        weights: [400, 700]
+    toc: true
+    pagetitle: "Gabonese Wrist | {{< meta title >}}"
+    # le paramétrage de la grid permet d'éviter la sidebar et la margin 
+    grid:
+      sidebar-width: 0px
+      body-width: 1200px
+      margin-width: 200px
+      gutter-width: 1.5rem
 
 
 editor: visual
@@ -61,4 +84,4 @@ comments:
     repo: francois-b-24/utterance
 
 execute:
-  freeze: true
+  freeze: auto

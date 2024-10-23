@@ -1,7 +1,6 @@
 ---
 title: "Lexique horloger"
-date: "2024-04-21"
-date-modified: ""
+author: ""
 description: ""
 image: "IMG_2264.JPG"
 categories: [Histoire & savoir-faire] 

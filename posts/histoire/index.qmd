@@ -1,5 +1,6 @@
 ---
 title: "L’Horlogerie, croisade entre art & science"
+author: ""
 description: ""
 categories: [Essai]
 fields: [reading-time]

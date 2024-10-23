@@ -1,10 +1,8 @@
 ---
 title: "*TANK*"
-subtitle: "*Clique sur mon poignet pour savoir plus...*"
-date-modified: ""
+author: ""
 description: ""
 image: "IMG_2191.jpg"
-fields: [reading-time]
 ---
 
 ![Cartier TANK - Or jaune](IMG_2191.jpg){fig-align="center" width="20cm"}

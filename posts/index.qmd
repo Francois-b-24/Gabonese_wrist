@@ -1,15 +1,15 @@
 ---
-title: "Tout"
+title: "Articles"
+author: ""
 listing:
   - id: posts
     contents: "**/*/*.qmd"
     type: grid
-    fields: [image, date, title, categories, reading-time] 
-    sort: "date desc"
-    # categories: cloud
+    fields: [image, date, title, categories] 
     sort-ui: false
     filter-ui: false
-    page-size: 36     
+    page-size: 36
+         
 page-layout: full
 title-block-banner: false
 comments: false
