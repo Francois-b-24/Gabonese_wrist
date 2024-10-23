@@ -6,7 +6,7 @@ toc: false
 image: moi.jpg 
 about:
   template: trestles
-  image-width: 20em
+  image-width: 15em
   links: 
    - icon: instagram
      href: https://www.instagram.com/
