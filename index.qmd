@@ -20,7 +20,13 @@ title-block-banner: true
 ---
 
 ::: {style="text-align:center;"}
-## [👋]{.wave} Bienvenue sur mon blog dédié à l'horlogerie !
+## [👋]{.wave} Bienvenue sur *Gabonese Wrist*  🇬🇦
 
 <iconify-icon icon="flag:ga-4x3"></iconify-icon>
 :::
+
+**Gabonese Wrist** incarne bien plus qu’une simple passion pour l’horlogerie ; c’est une véritable philosophie, une exploration esthétique et culturelle du temps. Que vous soyez un aficionado désireux de parfaire vos connaissances ou un curieux en quête de découvertes, vous êtes au bon endroit.
+
+Avec **Gabonese Wrist**, partez à la découverte d’un univers où chaque montre n’est pas qu’un objet, mais une histoire à raconter. Ensemble, nous célébrerons l’art de l’horlogerie, en mettant en lumière les modèles emblématiques et les innovations qui façonnent notre passion.
+
+Viens découvrir cette aventure fascinante et laissez-toi séduire par l’élégance intemporelle de chaque seconde qui passe !

@@ -1,16 +1,6 @@
 /*-- scss:defaults --*/
 
 
-.round-image {
-  border-radius: 50%; /* Rend l'image ronde */
-  width: 15em; /* Ajuste la taille de l'image */
-  height: 15em; /* Ajuste la hauteur de l'image pour garder un cercle parfait */
-  object-fit: cover; /* Assure que l'image s'adapte au conteneur tout en restant centrée */
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 #title-block-header {
   background-image: url("patek_wrist.jpg");
   background-size: cover;
