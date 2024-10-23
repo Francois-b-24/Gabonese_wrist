@@ -10,6 +10,7 @@ lang: fr
 website:
   title: "*Gabonese Wrist 🇬🇦*"
   back-to-top-navigation: true
+  
   cookie-consent:
     type: express # GDPR Compliant - Bloque les cookies jusqu'à ce que l'utilisateur les accepte, ou non
     style: simple
@@ -54,8 +55,7 @@ website:
       - text: "*Montres*"
         href: posts_montres/index.qmd
 
-      - icon: github
-        href: https://github.com/
+  
       - icon: instagram
         href: https://www.instagram.com/
       - icon: envelope
