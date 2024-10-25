@@ -1,21 +1,19 @@
 ---
-title: "Les montres"
+title: "Panerai"
 author: ""
 listing:
-  - id: posts_montres
-    contents: "**/*/*.qmd"
-    type: grid
-    fields: [image, date, title, categories] 
+  - id: posts
+    contents: "**/panerai/*.qmd"
+    type: default
+    fields: [image, date, title, categories]
     sort: "date desc"
     sort-ui: false
     filter-ui: false
-    page-size: 40     
-
+    page-size: 5     
 page-layout: full
 title-block-banner: false
 comments: false
 toc: true
 ---
-
 
 

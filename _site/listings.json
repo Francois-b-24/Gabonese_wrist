@@ -31,6 +31,10 @@
     "listing": "/posts_montres/index.html",
     "items": [
       "/posts_montres/cartier/Cartier.html",
+      "/posts_montres/journe/journe.html",
+      "/posts_montres/panerai/panerai.html",
+      "/posts_montres/panerai/panerai_2.html",
+      "/posts_montres/parmigiani_fleurier/parmigiani_fleurier.html",
       "/posts_montres/rolex/Rolex.html"
     ]
   },
@@ -44,6 +48,7 @@
     "listing": "/posts/index.html",
     "items": [
       "/posts/histoire/Cartier.html",
+      "/posts/histoire/rubis.html",
       "/posts/lexique/lexique.html",
       "/posts/histoire/index.html",
       "/posts/introduction/index.html"
