@@ -46,7 +46,7 @@ website:
   navbar:
     right:
      
-      - text: "*Acceuil*"    
+      - text: "*Accueil*"    
         href: index.qmd
 
       - text: "*Articles*"
