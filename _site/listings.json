@@ -47,6 +47,7 @@
   {
     "listing": "/posts/index.html",
     "items": [
+      "/posts/Data science/index.html",
       "/posts/histoire/Cartier.html",
       "/posts/histoire/rubis.html",
       "/posts/lexique/lexique.html",
@@ -58,6 +59,25 @@
     "listing": "/posts/introduction.html",
     "items": [
       "/posts/introduction/index.html"
+    ]
+  },
+  {
+    "listing": "/posts_montres/panerai.html",
+    "items": [
+      "/posts_montres/panerai/panerai.html",
+      "/posts_montres/panerai/panerai_2.html"
+    ]
+  },
+  {
+    "listing": "/posts_montres/journe.html",
+    "items": [
+      "/posts_montres/journe/journe.html"
+    ]
+  },
+  {
+    "listing": "/posts_montres/parmigiani_fleurier.html",
+    "items": [
+      "/posts_montres/parmigiani_fleurier/parmigiani_fleurier.html"
     ]
   }
 ]
