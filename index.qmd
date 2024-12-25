@@ -1,5 +1,5 @@
 ---
-title: "L'Horloge rit sans l'Horlogerie ⌛ "
+title: "*Le sanctuaire du Temps* ⌛ "
 subtitle: "*Un savoir-être indispensable - Parce-que sans le Temps, la notion de Garde-Temps n'existe pas.*"
 comments: false
 toc: false 
