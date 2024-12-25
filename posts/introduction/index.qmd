@@ -31,7 +31,7 @@ De manière chronologique le Temps peut être vu ainsi :
 
 -   Le ***présent*** qui désigne l'immédiat et la relation entre information et matière.
 
-![Vision du Temps du Chronos, « *Hier était le jour précédent et demain sera le jour suivant parce que je suis aujourd'hu*i »](present.jpg){fig-align="center" width="9.8cm" height="3cm"}
+![Vision du Temps du Chronos, « *Hier était le jour précédent et demain sera le jour suivant parce que je suis aujourd'hu*i »](present.jpg){fig-align="center" width="5cm" height="2cm"}
 
 La notion de Temps est un corollaire de la notion de mouvement : le mouvement est la variation des choses la plus accessible à la perception. La variation n'existe que dans la durée. Ainsi, selon Aristote, le temps est le nombre du mouvement selon l'antérieur et le postérieur.
 
