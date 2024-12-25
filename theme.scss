@@ -263,6 +263,22 @@ h1, h2, h3, h4, h5, h6 {
   transform: scale(1.05);
 }
 
+/* Gère l'animation de l'horloge*/ 
+
+.clock-spin {
+  display: inline-block;
+  animation: rotate 5s linear infinite; /* Ajustez la vitesse avec "2s" */
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
 /* Gère l'animation de la main */
 .wave {
   animation-name: wave-animation;

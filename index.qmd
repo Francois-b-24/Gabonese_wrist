@@ -1,5 +1,5 @@
 ---
-title: "*Le sanctuaire du Temps* ⌛ "
+title: "*Le sanctuaire du Temps* [️⏳]{.clock-spin} "
 subtitle: "*Un savoir-être indispensable - Parce-que sans le Temps, la notion de Garde-Temps n'existe pas.*"
 comments: false
 toc: false 
