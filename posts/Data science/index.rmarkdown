@@ -1,0 +1,364 @@
+---
+title: " L’Univers de l’Horlogerie de Seconde Main"
+title-block-banner: true
+toc: true
+toc-title: 📚 Table des matières
+lang: fr
+number-sections: true
+subtitle: ""
+author: "`BOUSSENGUI François`"
+description: "*Pourquoi certaines montres valent-elles plus cher que d’autres ? Une analyse des facteurs de valorisation.*"
+image: "CUBITUS.jpg"
+date: "12/25/2024"
+categories: [Analyse de données]
+format:
+    html:
+        code-fold: true 
+        code-line-numbers: false
+        anchor-sections: true
+        smooth-scroll: true
+        citations-hover: true
+        footnotes-hover: true
+        html-math-method: mathjax
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, fig.align = "center", out.width = "100%")
+```
+
+```{r echo=FALSE, warning =FALSE}
+library(reticulate)
+use_virtualenv("/Users/f.b/.virtualenvs/r-reticulate")
+```
+
+
+# **Contexte général de l’analyse du marché de l’horlogerie**
+
+L’industrie horlogère est un secteur dynamique et hautement concurrentiel, où les tendances de prix et les préférences des consommateurs évoluent constamment. Afin de mieux comprendre les variations de prix sur le marché de la seconde main, et les caractéristiques des montres proposées sur le marché, cette analyse se concentre sur l’exploration des données collectées sur le site **Chrono24**, l’une des principales plateformes de vente de montres de luxe en ligne.
+
+# **Objectif de l’analyse**
+
+L’objectif principal de cette analyse est de fournir des insights pertinents sur les tendances actuelles du marché des montres en se basant sur des données provenant de Chrono24. À travers le *scraping* de données en ligne, nous avons extrait des informations détaillées sur un large éventail de montres proposées à la vente, notamment :
+
+- **Prix des montres** : Données sur les prix pour les différentes marques, modèles, et états des montres.
+
+-	**Caractéristiques des montres** : Informations sur les spécifications telles que les matériaux utilisés (acier, or, etc.), le type de mouvement, la taille, et les autres caractéristiques techniques.
+
+- **Marques populaires** : Identification des marques les plus recherchées et les plus proposées sur le marché secondaire.
+
+- **Évolution des prix** : Analyse des variations de prix des montres selon des critères comme la marque, la matière du boîtier, ou la rareté.
+
+# **Méthodologie**
+
+Les données ont été collectées par scraping depuis le site web de Chrono24 à l’aide d’outils **Python** tels que *BeautifulSoup* et *Selenium*. Ce processus a permis d’extraire un ensemble de données riche et diversifié sur les montres mises en vente, comprenant des informations sur les prix, les marques, les matériaux, les tailles, et bien plus encore. Ces données ont ensuite été nettoyées et préparées pour l’analyse à l’aide de bibliothèques telles que *Pandas* et *NumPy*.
+
+L’analyse s’est articulée autour de plusieurs axes :
+
+- **Analyse descriptive** : Statistiques de base (moyenne, médiane, écart-type) sur les prix des montres et leurs caractéristiques.
+
+- **Visualisation des données** : Utilisation de graphiques pour représenter la distribution des prix par marque, la répartition des prix selon les matériaux, et d’autres caractéristiques pertinentes.
+
+- **Modélisation prédictive** : Développement de modèles permettant de prédire les variations de prix en fonction de certains facteurs comme la marque, le type de mouvement, et l’état de la montre.
+
+::: {.callout-tip icon="false" collapse="true"}
+## Présentation des variables de la base données
+
+| Variables               | Interprétation                                |
+|:------------------------|:----------------------------------------------|
+| `Marque`                | Marque de la montre                           |
+| `Modèle`                | Modèle de la montre                           |
+| `mouvement`             | Type de mouvement (manuel, autmatique, etc. ) |
+| `Matiere du boîtier`    | Matière du boîtier (acier, or, etc. )         |
+| `Matiere du bracelet`   | Matière du bracelet (or, acier, caoutchouc)   |
+| `Etat de la montre`     | Etat de la montre (Bon, mauvais, etc. )       |
+| `Sexe`                  | catégorie de la montre : homme/femme          |
+| **prix**                | Prix de la montre (en €)                      |
+| `Réserve de macrhe`     | Niveau de réserve de marche de la montre      |
+| `Diamètre`              | Diamètre de la montre                         |
+| `Etenchéité`            | Niveau d'étenchéité de la montre              |
+| `matiere de la lunette` | Matière de la lunette de la montre            |
+| `matiere du verre`      | Matière du verre de la montre                 |
+| `matiere de la boucle`  | Matière de la boucle de la montre             |
+| `Pays`                  | Pays de provenance de la montre |
+
+:::
+
+# **Résultats attendus**
+
+À travers cette analyse, nous cherchons à obtenir une vue d’ensemble des tendances actuelles du marché des montres de luxe. Cela permettra de répondre à plusieurs questions clés :
+
+- Quelles sont les marques les plus recherchées et les plus coûteuses ?
+	 
+- Comment les caractéristiques (matériaux, type de mouvement, etc.) influent-elles sur le prix des montres ?
+	
+- Existe-t-il des tendances saisonnières ou géographiques influençant les prix ?
+	
+
+# **Applications de l’analyse**
+
+Les résultats de cette analyse peuvent être utilisés pour :
+
+- Les revendeurs : Affiner leur stratégie de tarification en fonction des tendances observées sur le marché.
+	
+- Les acheteurs : Obtenir une vue d’ensemble des prix moyens et des bonnes affaires dans le marché de l’horlogerie.
+	
+- Les marques et fabricants : Comprendre les attentes des consommateurs et les tendances de demande en matière de modèles spécifiques ou de caractéristiques.
+
+En résumé, cette analyse vise à fournir une compréhension approfondie des dynamiques du marché de l’horlogerie via les données issues de Chrono24, ce qui pourra servir à la fois pour des études de marché, des prévisions de prix, et la définition de stratégies commerciales adaptées.
+             
+
+
+# **Outil technique**
+
+-   Le projet a entièrement été developpé en *Python*.
+
+::: {style="text-align:center;"}
+[*Cliquer ici pour voir le code source.*](https://github.com/Francois-b-24/Clock_industry-second_hand/tree/main)
+:::
+
+
+
+# **Analyse descriptive** 
+
+
+```{python, echo=FALSE, warning = FALSE}
+
+import pandas as pd
+from nettoyage import Nettoyage
+import sqlite3
+
+import numpy as np
+from Graphique import graphique as rep
+import seaborn as sns
+
+path_load = '/Users/f.b/Desktop/Data_Science/Clock_industry/lib/data/montre.db'
+path_save = '/Users/f.b/Desktop/Data_Science/Clock_industry/lib/data/base.csv'
+
+def chargement_base(path_load, path_save):
+   
+        connexion = sqlite3.connect(path_load)
+
+        # Exécution d'une requête SQL pour récupérer des données et conversion en DataFrame
+        df = pd.read_sql_query('SELECT * FROM montre', connexion)
+
+        # Fermeture de la connexion
+        connexion.close()
+
+        # Conversion de la base en format CSV 
+        
+        df.to_csv(path_save)
+
+        # Chargement de la BDD sans la colonne id: 
+        df = df.iloc[:, 1:]
+        return df 
+
+df = chargement_base(path_load, path_save)
+
+nettoyage = Nettoyage(df)
+
+df = nettoyage.nettoyage_colonnes()
+
+colonnes_a_renseigner = ['matiere_boitier',
+                         'matiere_bracelet',
+                         'sexe',
+                         'diametre',
+                         'etencheite',
+                         'matiere_lunette',
+                         'matiere_verre',
+                         'boucle',
+                         'matiere_boucle',
+                         'rouage',
+                         'reserve_de_marche', 
+                         'mouvement']
+
+for col in colonnes_a_renseigner:
+    df = nettoyage.remplissage(col)
+    
+    
+df = nettoyage.remplissage_mouvement()
+df = nettoyage.remplissage_reserve_marche()
+df = nettoyage.compteur_complications('fonctions')
+df = nettoyage.suppression_colonnes()
+
+df = nettoyage.mise_en_forme()
+df = nettoyage.nettoyer_matiere_boitier()
+df = nettoyage.matiere()
+df = nettoyage.mapping_matiere()
+df = nettoyage.regroupement_etat_montres()
+df = nettoyage.extraction_elements_avant_euro()
+df = nettoyage.nettoyer_valeurs('prix')
+df = nettoyage.extraction_integer()
+
+rep = rep(df)
+
+# Création d'une variable de prix en logarithme qui nous sera utile lors de modélisation pour respecter les hypothèses des modèles.
+df['prix_log'] = np.log(df['prix'])
+
+# Création d'une variable de prix déflatée de 6%. ==> Tiens compte de la commission appliquée sur le prix de vente
+
+df['prix_sc'] = df['prix']*(1-0.06)
+
+
+df['prix_log'] = np.log(df['prix_sc'])
+```
+
+
+## Répartition des prix par provenances : 
+
+
+```{python, echo=FALSE, warning = FALSE, warning = FALSE, width = 3, height =2}
+effectif = rep.effectif_pays()
+rep.tab_pays(effectif)
+```
+
+```{python, echo=FALSE, warning = FALSE}
+statistic_sorted = rep.stat_pays(effectif)
+rep.tab_pays_2(statistic_sorted)
+```
+
+
+
+## Répartition des prix selon le type de mouvement :
+
+
+```{python, echo=FALSE, warning = FALSE}
+rep.tableau('mouvement')
+```
+
+```{python, echo=FALSE, warning = FALSE,  width = 3, height =2}
+rep.boxplot('mouvement')
+```
+
+```{python, echo=FALSE, warning = FALSE,  width = 3, height =2}
+rep.barres('mouvement')
+```
+
+
+## Répartition des prix selon le sexe :
+
+
+```{python, echo=FALSE, warning = FALSE}
+rep.tableau('sexe')
+```
+
+```{python, echo=FALSE, warning = FALSE}
+rep.boxplot('sexe')
+```
+
+```{python, echo=FALSE, warning = FALSE}
+rep.barres('sexe')
+```
+
+
+## Répartition des prix selon la marque :
+
+
+```{python, echo=FALSE, warning = FALSE}
+rep.tableau('marque')
+```
+
+
+
+
+## Répartition des prix selon la matière du boitier :
+
+
+```{python, echo=FALSE, warning = FALSE}
+rep.tableau('matiere_boitier')
+```
+
+```{python, echo=FALSE, warning = FALSE}
+rep.barres('matiere_boitier')
+```
+
+
+## Répartition des prix selon la matière du bracelet :
+
+
+```{python, echo=FALSE, warning = FALSE}
+rep.tableau('matiere_bracelet')
+```
+
+```{python, echo=FALSE, warning = FALSE}
+rep.barres('matiere_bracelet')
+```
+
+
+## Répartition des prix selon l'état de la montre :
+
+
+```{python, echo=FALSE, warning = FALSE}
+rep.tableau('matiere_bracelet')
+```
+
+```{python, echo=FALSE, warning = FALSE}
+rep.barres('matiere_bracelet')
+```
+
+ 
+## Répartition des prix selon la matière de la lunette :
+
+
+```{python, echo=FALSE, warning = FALSE}
+rep.tableau('matiere_lunette')
+```
+
+```{python, echo=FALSE, warning = FALSE}
+rep.barres('matiere_lunette')
+```
+
+
+## Répartition des prix selon la matière de la boucle :
+
+
+```{python, echo=FALSE, warning = FALSE}
+rep.tableau('matiere_boucle')
+```
+
+```{python, echo=FALSE, warning = FALSE}
+rep.barres('matiere_boucle')
+```
+
+
+## Répartition des prix selon le type de boucle :
+
+
+```{python, echo=FALSE, warning = FALSE}
+rep.tableau('boucle')
+```
+
+```{python, echo=FALSE, warning = FALSE}
+rep.barres('boucle')
+```
+
+
+## Répartition des prix selon le nombre de complications :
+
+
+```{python, echo=FALSE, warning = FALSE}
+rep.tableau('comptage_fonctions')
+```
+
+```{python, echo=FALSE, warning = FALSE}
+rep.barres('comptage_fonctions')
+```
+
+
+## Répartition des prix selon le diamètre de la montre :
+
+
+```{python, echo=FALSE, warning = FALSE}
+sns.scatterplot(x=df.diametre, y=df.prix)
+```
+
+
+## Répartition des prix selon le niveau d'étenchéité :
+
+
+```{python, echo=FALSE, warning = FALSE}
+sns.scatterplot(x=df.etencheite, y=df.prix)
+```
+
+
+# **Analyse prédictive**
+

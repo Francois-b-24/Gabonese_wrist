@@ -82,7 +82,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-image','listing-date','listing-title','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -178,7 +178,7 @@ window.Quarto = {
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link" href="../index.html"> 
-<span class="menu-text"><em>Acceuil</em></span></a>
+<span class="menu-text"><em>Accueil</em></span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../posts/index.html"> 
@@ -186,7 +186,7 @@ window.Quarto = {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../posts_montres/index.html"> 
-<span class="menu-text"><em>Montres</em></span></a>
+<span class="menu-text"><em>Montres Testées</em></span></a>
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://www.instagram.com/"> <i class="bi bi-instagram" role="img">
@@ -240,22 +240,30 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-posts">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1729887333410" data-listing-reading-time-sort="1" data-listing-word-count-sort="138">
+<div class="quarto-post image-right" data-index="0" data-categories="Histoire &amp; savoir-faire" data-listing-date-sort="1735081200000" data-listing-file-modified-sort="1735153723082" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="308">
 <div class="thumbnail">
 <p><a href="../posts_montres/cartier/Cartier.html" class="no-external"></a></p><a href="../posts_montres/cartier/Cartier.html" class="no-external">
-<p><img src="../posts_montres/cartier/IMG_2191.jpg" class="thumbnail-image"></p>
+<p><img src="../posts_montres/cartier/IMG_2267.PNG" class="thumbnail-image"></p>
 </a><p><a href="../posts_montres/cartier/Cartier.html" class="no-external"></a></p>
 </div>
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="../posts_montres/cartier/Cartier.html" class="no-external">Cartier Tank en Or Jaune : Un symbole d’élégance et de sobriété</a>
+<a href="../posts_montres/cartier/Cartier.html" class="no-external">Cartier</a>
 </h3>
 <div class="listing-subtitle">
-<a href="../posts_montres/cartier/Cartier.html" class="no-external"></a>
+<a href="../posts_montres/cartier/Cartier.html" class="no-external"><em>Louis Cartier ou le roi des joalliers et le joallier des rois</em></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Histoire &amp; savoir-faire'); return false;">
+Histoire &amp; savoir-faire
+</div>
 </div>
 </div>
 <div class="metadata">
-<p><a href="../posts_montres/cartier/Cartier.html" class="no-external"></a></p><a href="../posts_montres/cartier/Cartier.html" class="no-external">
+<a href="../posts_montres/cartier/Cartier.html" class="no-external">
+<div class="listing-date">
+25 déc. 2024
+</div>
 </a>
 </div>
 </div>

@@ -8,7 +8,7 @@ listing:
     fields: [image, date, title, categories] 
     sort: "date desc"
     sort-ui: false
-    filter-ui: false
+    filter-ui: True
     page-size: 40     
 
 page-layout: full

@@ -52,7 +52,7 @@ website:
       - text: "*Articles*"
         href: posts/index.qmd
       
-      - text: "*Montres*"
+      - text: "*Montres Testées*"
         href: posts_montres/index.qmd
 
   

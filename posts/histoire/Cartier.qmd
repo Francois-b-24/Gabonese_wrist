@@ -1,8 +1,8 @@
 ---
 title: "Cartier"
-subtitle: "*Cartier, le roi des joalliers et le joallier des rois*"
+subtitle: "*Louis Cartier ou le roi des joalliers et le joallier des rois*"
 author: ""
-date-modified: ""
+date: "12/25/2024"
 description: ""
 image: "IMG_2267.PNG"
 categories: [Histoire & savoir-faire]
@@ -19,7 +19,11 @@ Fondée en 1847 par Louis Cartier, la maison Cartier est synonyme d'élégance e
 
 Louis Cartier n'était pas seulement un horloger talentueux ; il était aussi un créateur avant-gardiste. En 1904, il a conçu la célèbre montre Santos, l'une des premières montres-bracelets pour hommes, à la demande de l'aviateur brésilien Alberto Santos-Dumont. Cette création marquante a révolutionné l'horlogerie en introduisant le concept de la montre-bracelet, combinant fonctionnalité et élégance.
 
+![Cartier Santos](santos.webp){fig-align="center" width="363" height="314"}
+
 Cartier a également joué un rôle clé dans le développement de la montre Tank, lancée en 1917. Inspirée des chars de la Première Guerre mondiale, cette montre est devenue un classique, célébrée pour son design rectangulaire et sa simplicité raffinée.
+
+![](IMG_2191.jpg){fig-align="center" width="376"}
 
 **Innovation et Créativité**
 

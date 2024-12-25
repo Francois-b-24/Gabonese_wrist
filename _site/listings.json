@@ -30,7 +30,6 @@
   {
     "listing": "/posts_montres/index.html",
     "items": [
-      "/posts_montres/cartier/Cartier.html",
       "/posts_montres/journe/journe.html",
       "/posts_montres/panerai/panerai.html",
       "/posts_montres/panerai/panerai_2.html",
@@ -47,11 +46,9 @@
   {
     "listing": "/posts/index.html",
     "items": [
-      "/posts/Data science/index.html",
       "/posts/histoire/Cartier.html",
-      "/posts/histoire/rubis.html",
       "/posts/lexique/lexique.html",
-      "/posts/histoire/index.html",
+      "/posts/Data science/index.html",
       "/posts/introduction/index.html"
     ]
   },

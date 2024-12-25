@@ -1,9 +1,9 @@
 ---
-title: "Pourquoi l'horlogerie ?"
+title: "Ma vision de l'horlogerie"
 author: ""
-subtitle: "*Ma vision de l'horlogerie*"
-date-modified: ""
-image: "IMG_0900.jpg"
+subtitle: ""
+date: "12/25/2024"
+image: "image.png"
 description: ""
 categories: [Essai]
 fields: [reading-time]
@@ -13,68 +13,54 @@ fields: [reading-time]
 
 Chers lecteurs,
 
-Avant de parler d'horlogerie, nous allons cadrer notre discussion en proposant tout d'abord une définition de la notion de temps.
+Avant de parler d'horlogerie, nous allons cadrer notre discussion en proposant tout d'abord une définition de la notion de *Temps*.
 
 # Le Temps
 
-Le Temps est un élément intelligible, omniprésent.
+Le Temps : Une réflexion captivante
 
-Une définition communément acceptée de tous est que le Temps *rend compte des changements dans le monde.* Ce que nous appelons communément le Temps, n'est autre que la *mesure de la durée*. C'est-à-dire le temps qui s'est écoulé entre 2 évènements.
+Le Temps est une réalité omniprésente qui mesure la durée entre deux événements. Il repose sur des phénomènes périodiques comme les jours ou les saisons, et se divise en trois dimensions :
 
-Cette mesure de la durée se base sur des phénomènes périodiques (jours, oscillations d'un pendule) ou quantique (temps de transition électronique dans l'atome par exemple). Selon ***Platon***, dans les *Définitions*, le temps est le « mouvement du soleil, mesure de sa course ». Par ces propos, il exprime le fait que le temps peut être preçu comme la perception du « *mouvement* ».
+-    **Passé** : Ce qui est révolu, gravé dans nos souvenirs.
 
-De manière chronologique le Temps peut être vu ainsi :
+-   **Présent** : L'instant immédiat, vécu ici et maintenant.
 
--   Le ***passé*** désigne l'information accessible à l'observateur présent.
+-   **Futur** : Ce qui reste à venir, fruit de nos anticipations.
 
--   Le ***futur*** désigne l'information que l'observateur, présent, associe à l'anticipation.
+Le Temps révèle le mouvement, ce changement constant qui transforme le monde tout en maintenant une permanence. Il met en lumière deux concepts fondamentaux :
 
--   Le ***présent*** qui désigne l'immédiat et la relation entre information et matière.
+-    **Simultanéité** : Plusieurs événements se déroulent en même temps, sans lien apparent.
 
-![Vision du Temps du Chronos, « *Hier était le jour précédent et demain sera le jour suivant parce que je suis aujourd'hu*i »](present.jpg){fig-align="center" width="5cm" height="2cm"}
+-    **Succession** : Les événements s'enchaînent dans un ordre précis, un avant et un après.
 
-La notion de Temps est un corollaire de la notion de mouvement : le mouvement est la variation des choses la plus accessible à la perception. La variation n'existe que dans la durée. Ainsi, selon Aristote, le temps est le nombre du mouvement selon l'antérieur et le postérieur.
+De tout temps, les hommes ont cherché à quantifier le Temps, d'abord avec des cycles naturels (calendriers), puis avec des outils précis comme les horloges. Pourtant, sa véritable nature reste insaisissable. Comme le disait Saint Augustin :
 
-Le Temps englobe plusieurs notions. En effet, le temps met en évidence à la fois le changement et la permanence. 
+*Qu'est-ce donc que le Temps ? Si personne ne m'interroge, je le sais ; si je veux répondre à cette demande, je l'ignore*
 
-Le changement est mis est en évidence par le fait que les « objets » de toutes sortes sont altérés par des « évènements » et que ce processus prend place dans un temps partagé par tous ceux qui en ont conscience. Par ailleurs, il met en exergue la permanence par le fait que les objets ou du moins leur  « substances », sont censées demeurer les mêmes, malgré les changements qu'ils subissent.
-
-De ces éléments, nous pouvons ajouter à l'étude du temps la notion de simultanéité (ou synchronie). La simultanéité n'est autre que l'idée qu'à un même moment, des événements en nombre peut-être infini se déroulent conjointement, *a priori* sans aucun rapport les uns avec les autres. En opposition, se trouve la notion de de succession ou de diachronie. En d'autres termes, l'antériorité et la postériorité : si deux événements ne sont pas simultanés, c'est que l'un a lieu *après* l'autre. Deux moments ressentis comme différents sont ainsi nécessairement successifs. Néanmoins, de la simple succession, ou de la simultanéité, la durée ne peut être déduite. En effet, quand une même vidéo est projetée à une vitesse plus ou moins grande, l'ordre des événements y est conservé, mais pas la durée.
-
-Ces notions font notamment appel à la mémoire, individuelle ou collective : le classement des événements dans un ordre quelconque ne peut se faire que si l'observateur se souvient, de manière spontanée (remémoration spontanée) ou construite (effort de mémoire), individuelle ou collective.
-
-De façon opposée, la mémoire se construit grâce au fait que certains événements se répètent (saisons, évènements), autorisant ainsi l'apprentissage (individuel ou collectif). De façon plus générale, il semble que le temps puisse être considéré (et considérer n'est pas connaître) sous au moins deux aspects :
-
--   ***l'aspect cyclique*** : cycle des jours, des saisons de la vie...
-
--   ***l'aspect linéaire*** : évolution, transformation irréversible, passage de la naissance à la mort.
-
-Les phénomènes périodiques naturels ont permis d'établir très tôt une référence de durée, à savoir ***le calendrier***, et donc de *quantifier* le temps, c'est-à-dire lui associer un nombre et une unité, en effectuer une mesure. Aux temps modernes, des phénomènes périodiques artificiels ont permis de mesurer des durées plus courtes avec des horloges. Toutefois, cette connaissance est au mieux celle d'une substance du temps : elle n'apprend rien sur sa nature intrinsèque, car la mesure n'est pas le temps -- il faut du temps pour établir une mesure. Définir le temps en lui-même semble au-delà de nos capacités, probablement du fait que nous sommes tout à la fois dans le temps, et nous-mêmes du temps (physiquement et psychiquement). A ***Saint Augustin*** de conclure, « *Ce mot, quand nous le prononçons, nous en avons, à coup sûr, l'intelligence et de même quand nous l'entendons prononcer par d'autres. Qu'est-ce donc que le temps ? Si personne ne m'interroge, je le sais ; si je veux répondre à cette demande, je l'ignore* ».
+Le Temps, c'est à la fois un mystère et une évidence, un fil qui tisse notre existence.
 
 # L'Horlogerie
 
 J'avais moins de dix ans lorsque j'ai eu ma première montre au poignet.
 
-C'était un cadeau de mon grand-père, plus précisément c'était le modèle ***flik-flak*** de la marque [**Swatch**](https://www.swatch.com/fr-fr/). (Oui oui, je suis né à l'avènement du Quartz) - Modèle toujours commercialisé.
+C'était un cadeau de mon grand-père, plus précisément c'était le modèle ***flik-flak*** de la marque [**Swatch**](https://www.swatch.com/fr-fr/). (Oui oui, je suis né à l'avènement du Quartz).
 
-Dès lors, cet objet ne représentait qu'un simple accessoire. Etant jeune, je ne réalisais pas forcément toutes les merveilles historiques qui se cachant derrière la fabrication de ces objets.
+Dès lors, cet objet ne représentait qu'un simple accessoire. Étant jeune, je ne réalisais pas forcément toutes les merveilles qui se cachant derrière la fabrication de ces objets.
 
-Au fil du temps, cet objet n'est pas resté q'un simple accessoire mais il est devenu un véritable outil insdispensable à mon quotidien. Comme pour le votre d'ailleurs 😋. A partir de ce moment, j'ai commencé à y accorder plus d'intérêt.
+Au fil du temps, cet objet n'est pas resté q'un simple accessoire mais il est devenu un véritable outil insdispensable à mon quotidien. Comme pour le votre d'ailleurs 😋. Dès lors, j'ai commencé à y accorder plus d'intérêt.
 
 Ainsi, j'ai découvert un univers fascinant. Celui de l'horlogerie ! En effet, l'horlogerie peut-être définie comme le regroupement de la science, de la technique, de l'art, de l'industrie et du commerce dans le but de créer des instruments propres à mesurer le temps. C'est donc un univers très riche, qui regorge de merveilles historiques. Comme tout savoir-faire, le savoir-faire horloger n'a cessé d'évoluer au fil du temps et de s'adapter aux évolutions techniques et sociales. Il serait donc dommage de passer à côté de l'une des plus belles prouesses de l'humanité. ***Réussir à mesurer le temps.***
 
 L'intérêt pour cette discipline à été salvateur pour moi.
 
-C'est pourquoi, j'ai donc décidé d'explorer cet univers exceptionnel et d'en partager mes savoirs avec vous.
+C'est pourquoi, j'ai donc décidé d'explorer cet univers exceptionnel et d'en partager mes savoirs avec le plus grand nombre.
 
-Nous aborderons le sujet comme suit :
+Les sujets abordés seront divers et variés mais les principaux seront les suivants :
 
--   Nous parlerons des principales maisons horlogères possédant leur manufacture telles que Rolex, Omega, Cartier, Tudor, etc. Nous retracerons l'évolution des pratiques, des savoir-faire et des innovations technologiques dans le domaine de l'horlogerie.
+-   Nous parlerons de différentes maisons horlogères etc. Nous retracerons l'évolution des pratiques, des savoir-faire et des innovations technologiques dans le domaine de l'horlogerie.
 
--   Nous aborderons également le sujet d'un point de vue quantitatif. À travers de l'analyse de données, nous examinerons les caractéristiques des montres de luxe sur le marché de l'occasion. Nous expliquerons également comment les spécificités de chaque montre peuvent influencer leur prix.
+-   Nous aborderons également le sujet d'un point de vue quantitatif. À travers l'analyse de données, nous examinerons les caractéristiques des montres de luxe sur le marché de l'occasion. Nous expliquerons également comment les spécificités de chaque montre peuvent influencer leur prix.
 
--   Je partagerai et proposerai des fiches techniques sur les modèles que j'essaierai.
-
-N'hesitez pas à me dire en commentaire si tu vous aimeriez que l'on aborde le sujet sous un autre angle !
-
-Merci de votre lecture et à très bientôt. En d'autre termes, soyez à l'heure ⏱️ !
+::: {style="text-align:center;"}
+*Sois à l'heure* ⏱️ !
+:::

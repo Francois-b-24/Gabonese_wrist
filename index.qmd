@@ -1,6 +1,6 @@
 ---
-title: "*Le sanctuaire du Temps* [️⏳]{.clock-spin} "
-subtitle: "*Un savoir-être indispensable - Parce-que sans le Temps, la notion de Garde-Temps n'existe pas.*"
+title: "*Le sanctuaire du Temps* [️⏳]{.clock-spin}"
+subtitle: "*Parce que sans le Temps, l'horlogerie n'est pas*"
 comments: false
 toc: false 
 #image: moi.jpg
@@ -32,3 +32,7 @@ Avec **Gabonese Wrist**, partez à la découverte d’un univers où chaque mont
 Viens découvrir cette aventure fascinante et laisse-toi séduire par l’élégance intemporelle de chaque seconde qui passe !
 
 *"L’horlogerie est la plus vieille complice du temps, elle nous apprend à le dompter, mais jamais à le vaincre." ~ Anonyme*.
+
+::: {style="text-align:center;"}
+[*Articles*](https://gabonesewrist.com/posts/) et [*montres testées*](https://gabonesewrist.com/posts_montres/)
+:::

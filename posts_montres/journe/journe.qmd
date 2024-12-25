@@ -7,24 +7,20 @@ image: "IMG_2054.jpg"
 fields: [reading-time]
 ---
 
-![](IMG_2054.jpg){fig-align="center" width="15cm"}
+![](IMG_2054.jpg){fig-align="center" width="12.7cm" height="14.7cm"}
 
-![](fp_journe_back.jpg){fig-align="center" width="7.3cm"}
-
-La **F.P. Journe Élégante** se distingue comme une pièce maîtresse de l\'horlogerie contemporaine, alliant innovation technologique et esthétique raffinée. Conçue pour les amateurs de montres qui cherchent à marier élégance et fonctionnalité, l\'Élégante se démarque par son design pur et sa grande lisibilité.
+La **F.P. Journe Élégante** se distingue comme une pièce maîtresse de l'horlogerie contemporaine, alliant innovation technologique et esthétique raffinée. Conçue pour les amateurs de montres qui cherchent à marier élégance et fonctionnalité, l'Élégante se démarque par son design pur et sa grande lisibilité.
 
 **Un Design Distinctif :**
 
-Le boîtier, disponible en or ou en platine, présente des lignes fluides qui épousent le poignet avec grâce. Le cadran est clair, avec des index sobres et des aiguilles délicates qui facilitent la lecture de l\'heure. Cette montre est une véritable incarnation du chic intemporel.
+Le boîtier, disponible en or ou en platine, présente des lignes fluides qui épousent le poignet avec grâce. Le cadran est clair, avec des index sobres et des aiguilles délicates qui facilitent la lecture de l'heure. Cette montre est une véritable incarnation du chic intemporel.
 
 **Technologie Innovante :**
 
-Ce qui rend l\'Élégante particulièrement unique, c\'est sa capacité à entrer en mode veille lorsqu\'elle n\'est pas portée, conservant ainsi l\'énergie de son mouvement. Cette innovation permet à la montre de rester précise tout en prolongeant sa durée de vie, une caractéristique qui témoigne du savoir-faire d\'exception de la maison Journe.
+Ce qui rend l'Élégante particulièrement unique, c'est sa capacité à entrer en mode veille lorsqu'elle n'est pas portée, conservant ainsi l'énergie de son mouvement. Cette innovation permet à la montre de rester précise tout en prolongeant sa durée de vie, une caractéristique qui témoigne du savoir-faire d'exception de la maison Journe.
 
 **Polyvalence :**
 
-Que ce soit pour une occasion formelle ou pour un usage quotidien, l\'Élégante s\'adapte à toutes les situations, faisant d\'elle un accessoire essentiel pour ceux qui apprécient le luxe discrètement. Son esthétique minimaliste et sa technicité en font un choix privilégié pour les amateurs d\'horlogerie.
+Que ce soit pour une occasion formelle ou pour un usage quotidien, l'Élégante s'adapte à toutes les situations, faisant d'elle un accessoire essentiel pour ceux qui apprécient le luxe discrètement. Son esthétique minimaliste et sa technicité en font un choix privilégié pour les amateurs d'horlogerie.
 
-**Conclusion :**
-
-L\'Élégante de F.P. Journe n\'est pas qu\'une simple montre ; elle est le reflet d\'une passion pour l\'horlogerie et d\'un engagement envers l\'innovation. Découvrez cette pièce remarquable et laissez-vous séduire par son charme intemporel et son ingénierie sophistiquée.
+L'Élégante de F.P. Journe n'est pas qu'une simple montre ; elle est le reflet d'une passion pour l'horlogerie et d'un engagement envers l'innovation.

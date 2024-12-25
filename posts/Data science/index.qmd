@@ -1,5 +1,5 @@
 ---
-title: "Analyse du marché horloger de luxe"
+title: " L’Univers de l’Horlogerie de Seconde Main"
 title-block-banner: true
 toc: true
 toc-title: 📚 Table des matières
@@ -9,7 +9,8 @@ subtitle: ""
 author: "`BOUSSENGUI François`"
 description: "*Pourquoi certaines montres valent-elles plus cher que d’autres ? Une analyse des facteurs de valorisation.*"
 image: "CUBITUS.jpg"
-categories: [Data science]
+date: "12/25/2024"
+categories: [Analyse de données]
 format:
     html:
         code-fold: true 

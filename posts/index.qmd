@@ -5,9 +5,9 @@ listing:
   - id: posts
     contents: "**/*/*.qmd"
     type: grid
-    fields: [image, date, title, categories, subtitle] 
-    sort-ui: false
-    filter-ui: false
+    fields: [image, date, title, categories, subtitle, reading-time] 
+    sort-ui: True
+    filter-ui: True
     page-size: 36
          
 page-layout: full
