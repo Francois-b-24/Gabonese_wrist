@@ -16,6 +16,3 @@ toc-depth: 3
 page-layout: article
 
 
-format:
-  html:
-    include-after-body: ../footer.html
