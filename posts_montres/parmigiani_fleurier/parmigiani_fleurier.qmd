@@ -7,9 +7,9 @@ image: "fleurier.jpg"
 fields: [reading-time]
 ---
 
-![](fleurier.jpg){fig-align="center" width="9cm" height="12.4cm"}
+![](fleurier.jpg){fig-align="center" width="6.5cm" height="8.1cm"}
 
-![](fleurier_back_2.jpg){fig-align="center" width="8.7cm"}
+![](fleurier_back_2.jpg){fig-align="center" width="6.3cm"}
 
 **Philosophie**
 
