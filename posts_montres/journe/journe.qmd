@@ -7,7 +7,7 @@ image: "IMG_2054.jpg"
 fields: [reading-time]
 ---
 
-![](IMG_2054.jpg){fig-align="center" width="9.4cm" height="10.9cm"}
+![](IMG_2054.jpg){fig-align="center" width="7cm" height="8.1cm"}
 
 La **F.P. Journe Élégante** se distingue comme une pièce maîtresse de l'horlogerie contemporaine, alliant innovation technologique et esthétique raffinée. Conçue pour les amateurs de montres qui cherchent à marier élégance et fonctionnalité, l'Élégante se démarque par son design pur et sa grande lisibilité.
 
