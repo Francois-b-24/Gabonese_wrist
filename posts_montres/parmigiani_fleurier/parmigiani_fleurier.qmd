@@ -7,11 +7,11 @@ image: "fleurier.jpg"
 fields: [reading-time]
 ---
 
-![](fleurier.jpg){fig-align="center" width="15cm" height="20cm"}
+![](fleurier.jpg){fig-align="center" width="9cm" height="12.4cm"}
 
-![](fleurier_back_2.jpg){fig-align="center" width="15cm"}
+![](fleurier_back_2.jpg){fig-align="center" width="8.7cm"}
 
-**Contexte et Philosophie**
+**Philosophie**
 
 La *Parmigiani Fleurier Tonda PF Minute Rattrapante* s'inscrit dans la quête d'excellence de la marque suisse, réputée pour ses montres sophistiquées et ses mouvements complexes. Elle propose une fonction unique et innovante : la *minute rattrapante*, conçue pour ajuster les minutes de manière précise et élégante, ce qui renforce sa singularité parmi les montres de luxe contemporaines.
 
