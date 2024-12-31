@@ -30,28 +30,30 @@ class graphique:
 
         return fig.show()
     
-    def tab_pays(self, effectif):
-        # Créer une console pour afficher le tableau
-        console = Console()
+    def tab_pays(effectif, n=10):
+        """
+        Génère une table au format Markdown à partir des données fournies,
+        en affichant un nombre limité de lignes.
 
-        # Initialiser la table
-        table = Table(title="Provenance des montres")
+        Parameters:
+        - effectif (DataFrame): Un DataFrame contenant les colonnes "pays", "nbre_montre", et "pourcentage".
+        - n (int): Le nombre maximum de lignes à afficher. Par défaut 10.
 
-        # Ajouter les colonnes
-        table.add_column("Pays", justify="center", style="cyan", no_wrap=True)
-        table.add_column("Nombre de montres", justify="right", style="magenta")
-        table.add_column("%", justify="right", style="green")
+        Returns:
+        - str : Une table au format Markdown.
+        """
+        # Limiter le DataFrame aux n premières lignes
+        effectif = effectif.head(n)
 
-        # Ajouter les lignes du tableau à partir des données
+        # Construire les en-têtes Markdown
+        markdown_table = "| Pays            | Nombre de montres | %       |\n"
+        markdown_table += "|-----------------|-------------------|---------|\n"
+
+        # Ajouter les lignes de données
         for _, row in effectif.iterrows():
-            table.add_row(
-                str(row["pays"]),
-                str(row["nbre_montre"]),
-                f"{row['pourcentage']:.2f} %"
-            )
+            markdown_table += f"| {row['pays']} | {row['nbre_montre']}             | {row['pourcentage']:.2f} % |\n"
 
-        # Afficher la table
-        console.print(table)
+        return markdown_table
     
     def stat_pays(self, effectif):
         stats_localisation = self.df.groupby('pays')['prix'].agg(['mean', 'min', 'max']).reset_index()

@@ -6,6 +6,7 @@ date: "12/25/2024"
 image: "IMG_2264.JPG"
 categories: [Histoire & savoir-faire] 
 fields: [reading-time]
+search: true
 ---
 
 ![*Calibre Luc Chorpard avec Côtes de Genève et Poinçon de Genève.*](IMG_2265.JPG){fig-align="center" width="20cm"}
